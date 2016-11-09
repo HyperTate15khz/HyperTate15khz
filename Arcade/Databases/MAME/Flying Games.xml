@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<menu>
+<game name="1942" index="" image="">
+	<description>1942</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="ad2083" index="" image="">
+	<description>A. D. 2083</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="ajax" index="" image="">
+	<description>Ajax</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="argus" index="" image="">
+	<description>Argus</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="armedf" index="" image="">
+	<description>Armed Formation</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="aso" index="" image="">
+	<description>ASO - Armored Scrum Object</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="azurian" index="" image="">
+	<description>Azurian Attack</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="blastoff" index="" image="">
+	<description>Blast Off</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="bombsa" index="" image="">
+	<description>Bombs Away</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="bwings" index="" image="">
+	<description>B-Wings</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="chopper" index="" image="">
+	<description>Chopper I</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dangar" index="" image="">
+	<description>Dangar - Ufo Robo</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dangseed" index="" image="">
+	<description>Dangerous Seed</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="darwin" index="" image="">
+	<description>Darwin 4078</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dogfight" index="" image="">
+	<description>Dog Fight</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="drtoppel" index="" image="">
+	<description>Dr. Toppel's Adventure</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dspirit" index="" image="">
+	<description>Dragon Spirit</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="exerion" index="" image="">
+	<description>Exerion</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="fhawk" index="" image="">
+	<description>Fighting Hawk</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="finalizr" index="" image="">
+	<description>Finalizer - Super Transformation</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="firebatl" index="" image="">
+	<description>Fire Battle</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="flyboy" index="" image="">
+	<description>Fly-Boy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="fshark" index="" image="">
+	<description>Flying Shark</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="funkybee" index="" image="">
+	<description>Funky Bee</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="futspy" index="" image="">
+	<description>Future Spy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="gardia" index="" image="">
+	<description>Gardia</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="gyruss" index="" image="">
+	<description>Gyruss</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="imgfight" index="" image="">
+	<description>Image Fight</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="junofrst" index="" image="">
+	<description>Juno First</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="lastmisn" index="" image="">
+	<description>Last Mission</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="liberate" index="" image="">
+	<description>Liberation</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="looping" index="" image="">
+	<description>Looping</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="m660" index="" image="">
+	<description>Mission 660</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="masterw" index="" image="">
+	<description>Master of Weapon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mimonkey" index="" image="">
+	<description>Mighty Monkey</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="moonwar" index="" image="">
+	<description>Moonwar</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mx5000" index="" image="">
+	<description>MX5000</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="phelios" index="" image="">
+	<description>Phelios</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="plusalph" index="" image="">
+	<description>Plus Alpha</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="raflesia" index="" image="">
+	<description>Rafflesia</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="regulus" index="" image="">
+	<description>Regulus</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="scobra" index="" image="">
+	<description>Super Cobra</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="skylancr" index="" image="">
+	<description>Sky Lancer</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="sonicbom" index="" image="">
+	<description>Sonic Boom</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="srdarwin" index="" image="">
+	<description>Super Real Darwin</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="srdmissn" index="" image="">
+	<description>S.R.D. Mission</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="starforc" index="" image="">
+	<description>Star Force</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="starjack" index="" image="">
+	<description>Star Jacker</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="szaxxon" index="" image="">
+	<description>Super Zaxxon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="terracre" index="" image="">
+	<description>Terra Cresta</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tigerh" index="" image="">
+	<description>Tiger Heli</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="timeplt" index="" image="">
+	<description>Time Pilot</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tokio" index="" image="">
+	<description>Tokio / Scramble Formation</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tp84" index="" image="">
+	<description>Time Pilot '84</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="truxton" index="" image="">
+	<description>Truxton / Tatsujin</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="vangrd2" index="" image="">
+	<description>Vanguard II</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="vastar" index="" image="">
+	<description>Vastar</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="vfive" index="" image="">
+	<description>V-Five</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="vulgus" index="" image="">
+	<description>Vulgus</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="wndrplnt" index="" image="">
+	<description>Wonder Planet</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="xevious" index="" image="">
+	<description>Xevious</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="xxmissio" index="" image="">
+	<description>XX Mission</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="zaviga" index="" image="">
+	<description>Zaviga</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="zaxxon" index="" image="">
+	<description>Zaxxon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="zoar" index="" image="">
+	<description>Zoar</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="zodiack" index="" image="">
+	<description>Zodiack</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+</menu>

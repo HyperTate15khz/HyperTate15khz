@@ -1,0 +1,88 @@
+<menu>
+  <header>
+    <listname>Sega Naomi</listname>
+    <listversion />
+    <lastlistupdate>6/16/2015</lastlistupdate>
+    <exporterversion>HyperTools 4.3.25</exporterversion>
+  </header>
+  <game name="ikaruga" index="" image="">
+    <description>ikaruga</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="illvelo" index="" image="">
+    <description>illvelo</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="karous" index="" image="">
+    <description>karous</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="psyvar2" index="" image="">
+    <description>psyvar2</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="radirgy" index="" image="">
+    <description>radirgy</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="trgheart" index="" image="">
+    <description>trgheart</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="trizeal" index="" image="">
+    <description>trizeal</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="undefeat" index="" image="">
+    <description>undefeat</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+</menu>

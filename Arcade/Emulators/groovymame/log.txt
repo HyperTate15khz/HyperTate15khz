@@ -1,0 +1,193 @@
+SwitchRes: v0.015l, Monitor: arcade_15, Orientation: horizontal, Modeline generation: enabled
+SwitchRes: Monitor range 15625.00-16200.00,49.50-65.00,2.000,4.700,8.000,0.064,0.192,1.024,0,0,192,288,448,576
+SwitchRes: \\.\DISPLAY1: ATI Mobility Radeon HD 4500 Series (PCI\VEN_1002&DEV_9553&SUBSYS_3092174B&REV_00)
+SwitchRes: Device key: System\CurrentControlSet\Control\Video\{2ABEEC06-BD88-45D9-B24E-118ED53B9816}\0000
+ATI legacy init
+Switchres: Searching for custom video modes...
+Switchres: [  1]  640x 480 @ 30* : ATI legacy timing "640x480_30 15.600000KHz 59.884837Hz" 12.980000 640 664 728 832 480 482 487 521 interlace  -hsync -vsync
+Switchres: [  2]  664x 496 @ 29 : ATI legacy timing "664x496_29 15.894000KHz 58.975881Hz" 13.860000 664 696 760 872 496 499 504 539 interlace  -hsync -vsync
+Switchres: [  3]  664x 496 @ 30 : ATI legacy timing "664x496_30 16.158000KHz 59.955473Hz" 14.090000 664 696 760 872 496 499 504 539 interlace  -hsync -vsync
+Switchres: [  4]  728x 544 @ 27 : ATI legacy timing "728x544_27 15.871000KHz 54.074957Hz" 15.110000 728 760 832 952 544 547 552 587 interlace  -hsync -vsync
+Switchres: [  5] 2560x 240 @ 60 : ATI legacy timing "2560x240_60 15.661000KHz 60.003831Hz" 52.120000 2560 2664 2912 3328 240 242 245 261   -hsync -vsync
+Switchres: [  6] 2560x 248 @ 60 : ATI legacy timing "2560x248_60 16.139000KHz 59.996283Hz" 54.230000 2560 2672 2928 3360 248 250 253 269   -hsync -vsync
+Switchres: [  7] 2560x 256 @ 58 : ATI legacy timing "2560x256_58 16.199000KHz 58.480144Hz" 54.430000 2560 2672 2928 3360 256 258 261 277   -hsync -vsync
+Switchres: [  8] 2560x 264 @ 57 : ATI legacy timing "2560x264_57 16.199000KHz 56.838596Hz" 54.430000 2560 2672 2928 3360 264 266 269 285   -hsync -vsync
+Switchres: [  9] 2560x 272 @ 55 : ATI legacy timing "2560x272_55 16.199000KHz 55.286689Hz" 54.430000 2560 2672 2928 3360 272 274 277 293   -hsync -vsync
+Switchres: [ 10] 2560x 280 @ 54 : ATI legacy timing "2560x280_54 16.199000KHz 53.817276Hz" 54.430000 2560 2672 2928 3360 280 282 285 301   -hsync -vsync
+Switchres: [ 11] 2560x 288 @ 52 : ATI legacy timing "2560x288_52 16.199000KHz 52.423948Hz" 54.430000 2560 2672 2928 3360 288 290 293 309   -hsync -vsync
+Switchres: [ 12] 2560x 400 @ 30 : ATI legacy timing "2560x400_30 15.629000KHz 59.996161Hz" 51.890000 2560 2664 2904 3320 400 442 447 521 interlace  -hsync -vsync
+Switchres: [ 13] 2560x 416 @ 30 : ATI legacy timing "2560x416_30 15.629000KHz 59.996161Hz" 51.890000 2560 2664 2904 3320 416 450 455 521 interlace  -hsync -vsync
+Switchres: [ 14] 2560x 432 @ 30 : ATI legacy timing "2560x432_30 15.629000KHz 59.996161Hz" 51.890000 2560 2664 2904 3320 432 458 463 521 interlace  -hsync -vsync
+Switchres: [ 15] 2560x 448 @ 30 : ATI legacy timing "2560x448_30 15.629000KHz 59.996161Hz" 51.890000 2560 2664 2904 3320 448 466 471 521 interlace  -hsync -vsync
+Switchres: [ 16] 2560x 464 @ 30 : ATI legacy timing "2560x464_30 15.629000KHz 59.996161Hz" 51.890000 2560 2664 2904 3320 464 474 479 521 interlace  -hsync -vsync
+Switchres: [ 17] 2560x 480 @ 30 : ATI legacy timing "2560x480_30 15.682000KHz 57.548624Hz" 52.190000 2560 2664 2912 3328 480 494 500 545 interlace  -hsync -vsync
+Switchres: [ 18] 2560x 496 @ 30 : ATI legacy timing "2560x496_30 16.169000KHz 59.996289Hz" 54.330000 2560 2672 2928 3360 496 499 504 539 interlace  -hsync -vsync
+Switchres: [ 19] 2560x 544 @ 27 : ATI legacy timing "2560x544_27 16.142000KHz 54.998296Hz" 54.240000 2560 2672 2928 3360 544 547 552 587 interlace  -hsync -vsync
+SwitchRes: Found 19 custom of 19 active video modes
+SwitchRes: -resolution was forced as 2560x480
+
+SwitchRes: Entering switchres_modeline_setup
+SwitchRes: v0.015l:[ddonpach] Calculating best video mode for 240x320@57.550644 orientation: rotated
+
+SwitchRes: [ 640]x[ 480]_[30=59.884837Hz] - locked
+
+SwitchRes: [ 664]x[ 496]_(29=58.975881Hz) - locked
+
+SwitchRes: [ 664]x[ 496]_(30=59.955473Hz) - locked
+
+SwitchRes: [ 728]x[ 544]_(27=54.074957Hz) - locked
+
+SwitchRes: [2560]x[ 240]_(60=60.003831Hz) - locked
+
+SwitchRes: [2560]x[ 248]_(60=59.996283Hz) - locked
+
+SwitchRes: [2560]x[ 256]_(58=58.480144Hz) - locked
+
+SwitchRes: [2560]x[ 264]_(57=56.838596Hz) - locked
+
+SwitchRes: [2560]x[ 272]_(55=55.286689Hz) - locked
+
+SwitchRes: [2560]x[ 280]_(54=53.817276Hz) - locked
+
+SwitchRes: [2560]x[ 288]_(52=52.423948Hz) - locked
+
+SwitchRes: [2560]x[ 400]_(30=59.996161Hz) - locked
+
+SwitchRes: [2560]x[ 416]_(30=59.996161Hz) - locked
+
+SwitchRes: [2560]x[ 432]_(30=59.996161Hz) - locked
+
+SwitchRes: [2560]x[ 448]_(30=59.996161Hz) - locked
+
+SwitchRes: [2560]x[ 464]_(30=59.996161Hz) - locked
+
+SwitchRes: [2560]x[ 480]_(30=57.548624Hz)
+   rng(0): 2560 x 480_57.550644i 15.682550 [fract] scale(7, 1, 1) diff(16.67, 47.06, 0.0000) ratio(10.667, 1.500)
+
+SwitchRes: [2560]x[ 496]_(30=59.996289Hz) - locked
+
+SwitchRes: [2560]x[ 544]_(27=54.998296Hz) - locked
+
+SwitchRes: [ddonpach] (1) vertical (240x320@57.550644)->(2560x480@57.550644)
+   rng(0): 2560 x 480_57.550644i 15.682550 [fract] scale(7, 1, 1) diff(16.67, 47.06, 0.0000) ratio(10.667, 1.500)
+SwitchRes: Modeline "2560x480_30 15.682550KHz 57.550644Hz" 52.191528 2560 2664 2912 3328 480 494 500 545 interlace  -hsync -vsync
+Switchres: saving    ATI legacy timing "2560x480_30 15.682000KHz 57.548624Hz" 52.190000 2560 2664 2912 3328 480 494 500 545 interlace  -hsync -vsync
+Switchres: updating  ATI legacy timing "2560x480_30 15.682550KHz 57.550644Hz" 52.191528 2560 2664 2912 3328 480 494 500 545 interlace  -hsync -vsync
+SwitchRes: Setting option -rotate
+SwitchRes: Setting option -noror
+SwitchRes: Setting option -noautoror
+SwitchRes: Setting option -norol
+SwitchRes: Setting option -noautorol
+SwitchRes: Setting option -noblack_frame_insertion
+SwitchRes: Setting option -multithreading
+SwitchRes: Setting option -notriplebuffer
+SwitchRes: Setting option -syncrefresh
+SwitchRes: Setting option -waitvsync
+SwitchRes: Setting option -nohwstretch
+SwitchRes: Setting option -keepaspect
+SwitchRes: Setting option -filter
+SwitchRes: Setting option -prescale 1
+Video: Monitor 000000000A517D38 = "\\.\DISPLAY1" (primary)
+Direct3D: Using Direct3D 9
+window_proc: WM_NCACTIVATE
+blit_lock = TRUE
+Physical width 640, height 480
+Direct3D: Configuring adapter #0 = ATI Mobility Radeon HD 4500 Series
+Direct3D: Adapter has Vendor ID: 1002 and Device ID: 9553
+Direct3D: Using dynamic textures
+Direct3D: YUV format = RGB
+Direct3D: Max texture size = 8192x8192
+Direct3D: Device created at 2560x480
+Direct3D: First scanline: 25, Last scanline: 505, Break scanline: 505, Delay scanline: 25
+blit_unlock = TRUE
+window_proc: WM_PAINT
+Blitting thread created
+winwindow_video_window_create: blit_lock = TRUE
+RawInput: APIs detected
+Input: Adding Kbd #0: Standard PS/2 Keyboard
+Blitting thread started
+Input: Adding Kbd #1: HID Keyboard Device
+Input: Adding Mouse #0: HID-compliant mouse
+Input: Adding Gun #0: HID-compliant mouse
+DirectInput: Using DirectInput 8
+blit_lock = FALSE
+window_proc: WM_PAINT:END
+stream_buffer_size = 37888
+DirectSound: Primary buffer: 48000 Hz, 16 bits, 2 channels
+Region ':maincpu' created
+Region ':sprites0' created
+Region ':layer0' created
+Region ':layer1' created
+Region ':layer2' created
+Region ':ymz' created
+Region ':eeprom' created
+Starting DoDonPachi (International, Master Ver. 97/02/05) ':'
+Optional device 'int_timer_right' not found
+Optional device 'int_timer_left' not found
+Optional device 'oki' not found
+Optional device 'audiocpu' not found
+Optional shared pointer 'paletteram.3' not found
+Optional shared pointer 'paletteram.2' not found
+Optional shared pointer 'paletteram.1' not found
+Optional shared pointer 'spriteram_2.3' not found
+Optional shared pointer 'spriteram_2.2' not found
+Optional shared pointer 'spriteram_2.1' not found
+Optional shared pointer 'spriteram.3' not found
+Optional shared pointer 'spriteram.2' not found
+Optional shared pointer 'spriteram.1' not found
+Optional shared pointer 'vctrl.3' not found
+Optional shared pointer 'vram.3' not found
+Optional shared pointer 'videoregs.3' not found
+Optional shared pointer 'videoregs.2' not found
+Optional shared pointer 'videoregs.1' not found
+  (missing dependencies; rescheduling)
+Starting M68000 ':maincpu'
+Starting Serial EEPROM 93C46 (64x16) ':eeprom'
+Starting Timer ':int_timer'
+Starting Video Screen ':screen'
+Optional device 'finder_dummy_tag' not found
+Starting gfxdecode ':gfxdecode'
+Starting palette ':palette'
+Starting Speaker ':mono'
+  (missing dependencies; rescheduling)
+Starting YMZ280B ':ymz'
+Starting DoDonPachi (International, Master Ver. 97/02/05) ':'
+Optional device 'int_timer_right' not found
+Optional device 'int_timer_left' not found
+Optional device 'oki' not found
+Optional device 'audiocpu' not found
+Optional shared pointer 'paletteram.3' not found
+Optional shared pointer 'paletteram.2' not found
+Optional shared pointer 'paletteram.1' not found
+Optional shared pointer 'spriteram_2.3' not found
+Optional shared pointer 'spriteram_2.2' not found
+Optional shared pointer 'spriteram_2.1' not found
+Optional shared pointer 'spriteram.3' not found
+Optional shared pointer 'spriteram.2' not found
+Optional shared pointer 'spriteram.1' not found
+Optional shared pointer 'vctrl.3' not found
+Optional shared pointer 'vram.3' not found
+Optional shared pointer 'videoregs.3' not found
+Optional shared pointer 'videoregs.2' not found
+Optional shared pointer 'videoregs.1' not found
+  (missing dependencies; rescheduling)
+Starting Speaker ':mono'
+Starting DoDonPachi (International, Master Ver. 97/02/05) ':'
+Optional device 'int_timer_right' not found
+Optional device 'int_timer_left' not found
+Optional device 'oki' not found
+Optional device 'audiocpu' not found
+Optional shared pointer 'paletteram.3' not found
+Optional shared pointer 'paletteram.2' not found
+Optional shared pointer 'paletteram.1' not found
+Optional shared pointer 'spriteram_2.3' not found
+Optional shared pointer 'spriteram_2.2' not found
+Optional shared pointer 'spriteram_2.1' not found
+Optional shared pointer 'spriteram.3' not found
+Optional shared pointer 'spriteram.2' not found
+Optional shared pointer 'spriteram.1' not found
+Optional shared pointer 'vctrl.3' not found
+Optional shared pointer 'vram.3' not found
+Optional shared pointer 'videoregs.3' not found
+Optional shared pointer 'videoregs.2' not found
+Optional shared pointer 'videore

@@ -1,0 +1,435 @@
+# ========================================================= 
+# 東方風神録　攻略ヒントファイル 
+#
+# このファイルは、自動的に生成、上書きされます 
+# 自分で攻略ヒントを構成したい場合は、別のファイルを使用してください 
+#
+#                                Time-stamp: <2016/03/29 03:48>
+
+
+Version = 0.0
+
+# ================================== 
+Stage : 1
+
+Tips
+	Remain	: 11
+	Text	: "Caution!"
+	Pos		: 73, 32
+	Count	: 885
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 12
+	Text	: "Caution!"
+	Pos		: 22, 76
+	Count	: 1
+	Base	: mboss_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 13
+	Text	: "Caution!"
+	Pos		: 40, 426
+	Count	: 384
+	Base	: mboss_2
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 14
+	Text	: "Caution!"
+	Pos		: 123, 51
+	Count	: 2281
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 15
+	Text	: "Caution!"
+	Pos		: 14, 400
+	Count	: 3860
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 16
+	Text	: "Caution!"
+	Pos		: -9, 398
+	Count	: 392
+	Base	: boss_card_2
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 17
+	Text	: "Caution!"
+	Pos		: 166, 112
+	Count	: 872
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 18
+	Text	: "Caution!"
+	Pos		: -95, 432
+	Count	: 1205
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 19
+	Text	: "Caution!"
+	Pos		: 184, 127
+	Count	: 2356
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 20
+	Text	: "Caution!"
+	Pos		: -51, 245
+	Count	: 259
+	Base	: mboss_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 21
+	Text	: "Caution!"
+	Pos		: 15, 342
+	Count	: 65
+	Base	: mboss_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 22
+	Text	: "Caution!"
+	Pos		: 7, 432
+	Count	: 434
+	Base	: boss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 23
+	Text	: "Caution!"
+	Pos		: 5, 339
+	Count	: 492
+	Base	: boss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 24
+	Text	: "Caution!"
+	Pos		: 26, 432
+	Count	: 1
+	Base	: boss_card_2
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 25
+	Text	: "Caution!"
+	Pos		: 16, 134
+	Count	: 4266
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 26
+	Text	: "Caution!"
+	Pos		: -54, 209
+	Count	: 2343
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 27
+	Text	: "Caution!"
+	Pos		: 132, 247
+	Count	: 488
+	Base	: boss_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "Caution!"
+	Pos		: -14, 356
+	Count	: 282
+	Base	: boss_2
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 29
+	Text	: "Caution!"
+	Pos		: 112, 400
+	Count	: 1734
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "Caution!"
+	Pos		: 27, 333
+	Count	: 1405
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+StageEnd
+# ================================== 
+Stage : 2
+
+Tips
+	Remain	: 19
+	Text	: "Caution!"
+	Pos		: 42, 357
+	Count	: 242
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 20
+	Text	: "Caution!"
+	Pos		: 41, 408
+	Count	: 710
+	Base	: mboss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 21
+	Text	: "Caution!"
+	Pos		: 64, 389
+	Count	: 369
+	Base	: mboss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 22
+	Text	: "Caution!"
+	Pos		: 0, 377
+	Count	: 695
+	Base	: mboss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 23
+	Text	: "Caution!"
+	Pos		: 90, 319
+	Count	: 2246
+	Base	: mboss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 24
+	Text	: "Caution!"
+	Pos		: 99, 372
+	Count	: 762
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 25
+	Text	: "Caution!"
+	Pos		: -40, 409
+	Count	: 436
+	Base	: boss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 26
+	Text	: "Caution!"
+	Pos		: 0, 432
+	Count	: 647
+	Base	: boss_card_2
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 27
+	Text	: "Caution!"
+	Pos		: -37, 175
+	Count	: 786
+	Base	: start
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "Caution!"
+	Pos		: 93, 246
+	Count	: 1605
+	Base	: mboss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 29
+	Text	: "Caution!"
+	Pos		: 8, 415
+	Count	: 895
+	Base	: boss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "Caution!"
+	Pos		: 5, 432
+	Count	: 478
+	Base	: boss_card_1
+	Align	: center
+	Time	: 90
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+StageEnd

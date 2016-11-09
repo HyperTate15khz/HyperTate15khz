@@ -1,0 +1,35 @@
+# boot option
+# 0: window mode
+# 1: full screen mode
+boot 1
+
+# window mode resolution
+#  0:  480 x  640 (3:4)
+#  1:  600 x  800 (3:4)
+#  2:  768 x 1024 (3:4)
+#  3:  854 x  480 (16:9)
+#  4: 1024 x  576 (16:9)
+#  5: 1280 x  720 (16:9)
+#  6:  640 x  480 (4:3)
+#  7:  800 x  600 (4:3)
+#  8: 1024 x  768 (4:3)
+window_resolution 4
+
+# full screen mode resolution
+#  0: desktop
+#  1:  640 x  480 (4:3)
+#  2:  800 x  600 (4:3)
+#  3: 1024 x  768 (4:3)
+#  4: 1280 x  720 (16:9)
+#  5:  480 x  640 (3:4)
+#  6:  600 x  800 (3:4)
+#  7:  768 x 1024 (3:4)
+#  8:  720 x 1280 (9:16)
+full_screen_resolution 1
+
+# language
+# 0: Auto
+# 1: English
+# 2: Japanese
+language 1
+

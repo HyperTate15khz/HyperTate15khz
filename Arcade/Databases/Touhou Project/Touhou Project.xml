@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Touhou Project</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion></listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="6th - The Embodiment of Scarlet Devil" index="" image="">
+    <description>6th - The Embodiment of Scarlet Devil</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="7th - Perfect Cherry Blossom" index="" image="">
+    <description>7th - Perfect Cherry Blossom</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="8th - Imperishable Night" index="" image="">
+    <description>8th - Imperishable Night</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="9th - Phantasmagoria of Flower View" index="" image="">
+    <description>9th - Phantasmagoria of Flower View</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="9.5th - Shoot the Bullet" index="" image="">
+    <description>9.5th - Shoot the Bullet</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="10th - Mountain of Faith" index="" image="">
+    <description>10th - Mountain of Faith</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="11th - Subterranean Animism" index="" image="">
+    <description>11th - Subterranean Animism</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+   <game name="12th - Undefined Fantastic Object" index="" image="">
+    <description>12th - Undefined Fantastic Object</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="13th - Ten Desires" index="" image="">
+    <description>13th - Ten Desires</description>
+    <cloneof />
+    <crc />
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre>Shoot-'Em-Up</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  
+</menu>

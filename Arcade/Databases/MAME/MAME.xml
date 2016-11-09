@@ -1,0 +1,6456 @@
+<menu>
+  <game name="20pacgal" index="" image="">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.08)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco / Cosmodog</manufacturer>
+    <year>2000</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="39in1" index="" image="">
+    <description>39 in 1 MAME bootleg</description>
+    <cloneof />
+    <crc />
+    <manufacturer>bootleg</manufacturer>
+    <year>2004</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="005" index="" image="">
+    <description>005</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="4in1" index="" image="">
+    <description>4 Fun in 1</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Armenia / Food and Fun</manufacturer>
+    <year>1981</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="8ball" index="" image="">
+    <description>Video Eight Ball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="8ballact" index="" image="">
+    <description>Eight Ball Action (DK conversion)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seatongrove Ltd (Magic Electronics USA license)</manufacturer>
+    <year>1984</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="aafb" index="" image="">
+    <description>All American Football (rev E)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Leland Corp.</manufacturer>
+    <year>1989</year>
+    <genre>Football</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Football</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="afighter" index="" image="">
+    <description>Action Fighter (FD1089A 317-0018)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="aceattac" index="" image="">
+    <description>Ace Attacker (FD1094 317-0059)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Volleyball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Volleyball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="alleymas" index="" image="">
+    <description>Alley Master</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics</manufacturer>
+    <year>1986</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="alphaho" index="" image="">
+    <description>Alpha Fighter / Head On</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>19??</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="alpine" index="" image="">
+    <description>Alpine Ski (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Skiing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Skiing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="amidar" index="" image="">
+    <description>Amidar</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="angelkds" index="" image="">
+    <description>Angel Kids (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega / Nasco?</manufacturer>
+    <year>1988</year>
+    <genre>Climbing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Climbing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="anteater" index="" image="">
+    <description>Anteater</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tago Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="apb" index="" image="">
+    <description>APB - All Points Bulletin (rev 7)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari Games</manufacturer>
+    <year>1987</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="amazon" index="" image="">
+    <description>Soldier Girl Amazon</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="arabian" index="" image="">
+    <description>Arabian</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sun Electronics</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="arkanoid" index="" image="">
+    <description>Arkanoid (World, older)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation Japan</manufacturer>
+    <year>1986</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="arkatour" index="" image="">
+    <description>Tournament Arkanoid (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+    <year>1987</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="arknoid2" index="" image="">
+    <description>Arkanoid - Revenge of DOH (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation Japan</manufacturer>
+    <year>1987</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="armchmp2" index="" image="">
+    <description>Arm Champs II v2.6</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1992</year>
+    <genre>Wrestling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Wrestling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="armorcar" index="" image="">
+    <description>Armored Car (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Stern Electronics</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="asylum" index="" image="">
+    <description>Asylum (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Leland Corp.</manufacturer>
+    <year>1991</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="avengers" index="" image="">
+    <description>Avengers (US set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1987</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="battlane" index="" image="">
+    <description>Battle Lane! Vol. 5 (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan (Taito license)</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="battlnts" index="" image="">
+    <description>Battlantis (program code G)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="bcruzm12" index="" image="">
+    <description>Battle Cruiser M-12</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sigma Enterprises Inc.</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="bagman" index="" image="">
+    <description>Bagman</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Valadon Automation</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="baluba" index="" image="">
+    <description>Baluba-louk no Densetsu (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Able Corp, Ltd.</manufacturer>
+    <year>1986</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="barrier" index="" image="">
+    <description>Barrier</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics (Vectorbeam license)</manufacturer>
+    <year>1979</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="beezer" index="" image="">
+    <description>Beezer (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tong Electronic</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="berenstn" index="" image="">
+    <description>The Berenstain Bears in Big Paw's Cave</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Enter-Tech, Ltd.</manufacturer>
+    <year>1984</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bigbucks" index="" image="">
+    <description>Big Bucks</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Dynasoft Inc.</manufacturer>
+    <year>1986</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bigevglf" index="" image="">
+    <description>Big Event Golf (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito America Corporation</manufacturer>
+    <year>1986</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bigprowr" index="" image="">
+    <description>The Big Pro Wrestling!</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan</manufacturer>
+    <year>1983</year>
+    <genre>Wrestling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Wrestling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bikkuric" index="" image="">
+    <description>Bikkuri Card (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Peni</manufacturer>
+    <year>1987</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="birdiy" index="" image="">
+    <description>Birdiy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Mama Top</manufacturer>
+    <year>1983</year>
+    <genre>Climbing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Climbing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bjtwin" index="" image="">
+    <description>Bombjack Twin (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>NMK</manufacturer>
+    <year>1993</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bking" index="" image="">
+    <description>Birdie King</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bking2" index="" image="">
+    <description>Birdie King 2</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bking3" index="" image="">
+    <description>Birdie King 3</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bladestl" index="" image="">
+    <description>Blades of Steel (version T)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Hockey</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Hockey</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="block" index="" image="">
+    <description>Block Block (World 911219 Joystick)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1991</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="blockcar" index="" image="">
+    <description>Block Carnival / Thunder &amp; Lightning 2</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Visco</manufacturer>
+    <year>1992</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="blockgal" index="" image="">
+    <description>Block Gal (MC-8123B, 317-0029)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega / Vic Tokai</manufacturer>
+    <year>1987</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="blueprnt" index="" image="">
+    <description>Blue Print (Midway)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zilec Electronics / Bally Midway</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="boggy84" index="" image="">
+    <description>Boggy '84</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="boomrang" index="" image="">
+    <description>Boomer Rang'r / Genesis (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="bombbee" index="" image="">
+    <description>Bomb Bee</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1979</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bombjack" index="" image="">
+    <description>Bomb Jack (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tehkan</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bongo" index="" image="">
+    <description>Bongo</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jetsoft</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="boonggab" index="" image="">
+    <description>Boong-Ga Boong-Ga (Spank'em!)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taff System</manufacturer>
+    <year>2001</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="botanic" index="" image="">
+    <description>Botanic (English / Spanish)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Itisa</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bowl3d" index="" image="">
+    <description>3-D Bowling</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Meadows Games, Inc.</manufacturer>
+    <year>1978</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bowler" index="" image="">
+    <description>Bowling Alley</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Midway</manufacturer>
+    <year>1978</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bowlrama" index="" image="">
+    <description>Bowl-O-Rama Rev 1.0</description>
+    <cloneof />
+    <crc />
+    <manufacturer>P&amp;P Marketing</manufacturer>
+    <year>1991</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="breakout" index="" image="">
+    <description>Breakout [TTL]</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1976</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="brickzn" index="" image="">
+    <description>Brick Zone (v6.0, Joystick)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SunA</manufacturer>
+    <year>1992</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="brubber" index="" image="">
+    <description>Burnin' Rubber</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East</manufacturer>
+    <year>1982</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="btime" index="" image="">
+    <description>Burger Time (Data East set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="buggychl" index="" image="">
+    <description>Buggy Challenge</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bullfgtr" index="" image="">
+    <description>Bull Fighter</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co.</manufacturer>
+    <year>1984</year>
+    <genre>Hockey</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Hockey</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bullsdrt" index="" image="">
+    <description>Bulls Eye Darts</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Shinkai Inc. (Magic Electronics Inc. license)</manufacturer>
+    <year>1985</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="bwcasino" index="" image="">
+    <description>Boardwalk Casino</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Epos Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cadanglr" index="" image="">
+    <description>Angler Dangler (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Fishing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fishing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cavelon" index="" image="">
+    <description>Cavelon</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jetsoft</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="catnmous" index="" image="">
+    <description>Cat and Mouse (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zaccaria</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="citybomb" index="" image="">
+    <description>City Bomber (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="carnival" index="" image="">
+    <description>Carnival (upright)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="calipso" index="" image="">
+    <description>Calipso</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tago Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="cannonbp" index="" image="">
+    <description>Cannon Ball (Pac-Man Hardware)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Novomatic</manufacturer>
+    <year>1985</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="capbowl" index="" image="">
+    <description>Capcom Bowling (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Incredible Technologies / Capcom</manufacturer>
+    <year>1988</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="carhntds" index="" image="">
+    <description>Car Hunt / Deep Scan (France)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1979</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="carjmbre" index="" image="">
+    <description>Car Jamboree</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Omori Electric Co., Ltd.</manufacturer>
+    <year>1983</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cbdash" index="" image="">
+    <description>Boulder Dash (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1985</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cbtime" index="" image="">
+    <description>Burger Time (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cburnrub" index="" image="">
+    <description>Burnin' Rubber (DECO Cassette, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cdiscon1" index="" image="">
+    <description>Disco No.1 (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cdsteljn" index="" image="">
+    <description>DS Telejan (DECO Cassette, Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Mahjong</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mahjong</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cfarm" index="" image="">
+    <description>Chicken Farm (Version 2.0)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>LAI Games</manufacturer>
+    <year>1999</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cfghtice" index="" image="">
+    <description>Fighting Ice Hockey (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Hockey</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Hockey</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cflyball" index="" image="">
+    <description>Flying Ball (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1985</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cgraplop" index="" image="">
+    <description>Cluster Buster (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="champbwl" index="" image="">
+    <description>Championship Bowling</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seta / Romstar Inc.</manufacturer>
+    <year>1989</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="chanbara" index="" image="">
+    <description>Chanbara</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East</manufacturer>
+    <year>1985</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="checkman" index="" image="">
+    <description>Check Man</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zilec-Zenitone</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cheekyms" index="" image="">
+    <description>Cheeky Mouse</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1980</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="chinhero" index="" image="">
+    <description>Chinese Hero</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taiyo</manufacturer>
+    <year>1984</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="chkun" index="" image="">
+    <description>Chance Kun (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Peni</manufacturer>
+    <year>1988</year>
+    <genre>Baseball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>MAME</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="chqflag" index="" image="">
+    <description>Chequered Flag</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1988</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="circusc" index="" image="">
+    <description>Circus Charlie (level select, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ckong" index="" image="">
+    <description>Crazy Kong</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kyoei / Falcon</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ckongpt2" index="" image="">
+    <description>Crazy Kong Part II (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Falcon</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="clapapa" index="" image="">
+    <description>Rootin' Tootin' / La-Pa-Pa (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="clocknch" index="" image="">
+    <description>Lock'n'Chase (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cluckypo" index="" image="">
+    <description>Lucky Poker (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cmanhat" index="" image="">
+    <description>Manhattan (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="commsega" index="" image="">
+    <description>Commando (Sega)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="combh" index="" image="">
+    <description>Combat Hawk</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sanritsu / Sega</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="commando" index="" image="">
+    <description>Commando (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="cocoloco" index="" image="">
+    <description>Coco Loco</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Petaco S.A.</manufacturer>
+    <year>198?</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="complexx" index="" image="">
+    <description>Complex X</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito America Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="congo" index="" image="">
+    <description>Congo Bongo (Rev C, 2 board stack)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="contra" index="" image="">
+    <description>Contra (US / Asia, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="coozumou" index="" image="">
+    <description>Oozumou - The Grand Sumo (DECO Cassette, Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Sports</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Sports</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cppicf" index="" image="">
+    <description>Peter Pepper's Ice Cream Factory (DECO Cassette, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cprobowl" index="" image="">
+    <description>Pro Bowling (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cprogolf" index="" image="">
+    <description>Tournament Pro Golf (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cpsoccer" index="" image="">
+    <description>Pro Soccer (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Soccer</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Soccer</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cptennis" index="" image="">
+    <description>Pro Tennis (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="crbaloon" index="" image="">
+    <description>Crazy Balloon (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1980</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="crshrace" index="" image="">
+    <description>Lethal Crash Race (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Video System Co.</manufacturer>
+    <year>1993</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="crush" index="" image="">
+    <description>Crush Roller (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co. / Kural Samno Electric, Ltd.</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="crzrally" index="" image="">
+    <description>Crazy Rally (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tecfri</manufacturer>
+    <year>1985</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cscrtry" index="" image="">
+    <description>Scrum Try (DECO Cassette, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Sports</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Sports</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="csdtenis" index="" image="">
+    <description>Super Doubles Tennis (DECO Cassette, Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cskater" index="" image="">
+    <description>Skater (DECO Cassette, Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Skateboarding</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Skateboarding</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ctisland" index="" image="">
+    <description>Treasure Island (DECO Cassette, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ctsttape" index="" image="">
+    <description>Test Tape (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="curvebal" index="" image="">
+    <description>Curve Ball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Mylstar</manufacturer>
+    <year>1984</year>
+    <genre>Baseball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>MAME</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="cutieq" index="" image="">
+    <description>Cutie Q</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1979</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="czeroize" index="" image="">
+    <description>Zeroize (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="darkmist" index="" image="">
+    <description>The Lost Castle In Darkmist</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1986</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dazzler" index="" image="">
+    <description>Dazzler</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="daikaiju" index="" image="">
+    <description>Daikaiju no Gyakushu</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="ddayjlc" index="" image="">
+    <description>D-Day (Jaleco set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="dcheese" index="" image="">
+    <description>Double Cheese</description>
+    <cloneof />
+    <crc />
+    <manufacturer>HAR</manufacturer>
+    <year>1993</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dealer" index="" image="">
+    <description>The Dealer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Epos Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="devstors" index="" image="">
+    <description>Devastators (ver. Z)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1988</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="devilfsh" index="" image="">
+    <description>Devil Fish</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Artic</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="digdug" index="" image="">
+    <description>Dig Dug (rev 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="digdug2" index="" image="">
+    <description>Dig Dug II (New Ver.)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1985</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="digger" index="" image="">
+    <description>Digger</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1980</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="diggerc" index="" image="">
+    <description>Digger (CVS)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dingo" index="" image="">
+    <description>Dingo</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Ashby Computers and Graphics Ltd. (Jaleco license)</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dirtfoxj" index="" image="">
+    <description>Dirt Fox (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1989</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="disco" index="" image="">
+    <description>Disco No.1</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="discoboy" index="" image="">
+    <description>Disco Boy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Soft Art Co.</manufacturer>
+    <year>1993</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dkong" index="" image="">
+    <description>Donkey Kong (US set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo of America</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dkong3" index="" image="">
+    <description>Donkey Kong 3 (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo of America</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dkongjr" index="" image="">
+    <description>Donkey Kong Junior (US set F-2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo of America</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dkongpne" index="" image="">
+    <description></description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo of America</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="dkongx" index="" image="">
+    <description>Donkey Kong II - Jumpman Returns (V1.2) (hack)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo of America</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="docastle" index="" image="">
+    <description>Mr. Do's Castle (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dockman" index="" image="">
+    <description>Dock Man</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dommy" index="" image="">
+    <description>Dommy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dorachan" index="" image="">
+    <description>Dora-chan (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co. / Craul Denshi</manufacturer>
+    <year>1980</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dorodon" index="" image="">
+    <description>Dorodon (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>UPL (Falcon license?)</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="downtown" index="" image="">
+    <description>DownTown / Mokugeki (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seta</manufacturer>
+    <year>1989</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="draco" index="" image="">
+    <description>Draco</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cidelsa</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="dremshpr" index="" image="">
+    <description>Dream Shopper</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sanritsu</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="driftout" index="" image="">
+    <description>Drift Out (Europe)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Visco</manufacturer>
+    <year>1991</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="drivfrcp" index="" image="">
+    <description>Driving Force (Pac-Man conversion)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Shinkai Inc. (Magic Electronics Inc. license)</manufacturer>
+    <year>1984</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="drmicro" index="" image="">
+    <description>Dr. Micro</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sanritsu</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dynadice" index="" image="">
+    <description>Dynamic Dice</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <year>19??</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="dynamski" index="" image="">
+    <description>Dynamic Ski</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taiyo</manufacturer>
+    <year>1984</year>
+    <genre>Skiing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Skiing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="elecyoyo" index="" image="">
+    <description>The Electric Yo-Yo (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito America Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="evilston" index="" image="">
+    <description>Evil Stone</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Spacy Industrial, Ltd.</manufacturer>
+    <year>1990</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="equites" index="" image="">
+    <description>Equites</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co.</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="extrmatn" index="" image="">
+    <description>Extermination (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation Japan</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="exctscc2" index="" image="">
+    <description>Exciting Soccer II</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co.</manufacturer>
+    <year>1984</year>
+    <genre>Soccer</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Soccer</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="exctsccr" index="" image="">
+    <description>Exciting Soccer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co.</manufacturer>
+    <year>1983</year>
+    <genre>Soccer</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Soccer</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="eyes" index="" image="">
+    <description>Eyes (US set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Techstar (Rock-Ola license)</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="f1gp" index="" image="">
+    <description>F-1 Grand Prix</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Video System Co.</manufacturer>
+    <year>1991</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="f1gp2" index="" image="">
+    <description>F-1 Grand Prix Part II</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Video System Co.</manufacturer>
+    <year>1992</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="fantasia" index="" image="">
+    <description>Fantasia (940429 PCB, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Comad &amp; New Japan System</manufacturer>
+    <year>1994</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="fantasy" index="" image="">
+    <description>Fantasy (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="fastlane" index="" image="">
+    <description>Fast Lane</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="fgoal" index="" image="">
+    <description>Field Goal (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1979</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="fightrol" index="" image="">
+    <description>Fighting Roller</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko (Taito license)</manufacturer>
+    <year>1983</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="firetrap" index="" image="">
+    <description>Fire Trap (US, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Wood Place Inc. (Data East USA license)</manufacturer>
+    <year>1986</year>
+    <genre>Climbing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Climbing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="firetrk" index="" image="">
+    <description>Fire Truck / Smokey Joe</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1978</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="fixeight" index="" image="">
+    <description>FixEight (Europe)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Toaplan</manufacturer>
+    <year>1992</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="fiveside" index="" image="">
+    <description>Five a Side Soccer (ver UAA)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1995</year>
+    <genre>Soccer</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Soccer</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="flipjack" index="" image="">
+    <description>Flipper Jack</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jackson Co., Ltd.</manufacturer>
+    <year>1983?</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="flyboy" index="" image="">
+    <description>Fly-Boy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1982</year>
+    <genre>Sports</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Sports</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="freeze" index="" image="">
+    <description>Freeze</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="fspiderb" index="" image="">
+    <description>Frog &amp; Spiders (bootleg?)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="frontlin" index="" image="">
+    <description>Front Line</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="freekick" index="" image="">
+    <description>Free Kick (NS6201-A 1987.10)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nihon System (Merit license)</manufacturer>
+    <year>1987</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="frogger" index="" image="">
+    <description>Frogger</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="funkybee" index="" image="">
+    <description>Funky Bee</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Orca</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="fnkyfish" index="" image="">
+    <description>Funky Fish</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sun Electronics</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="gbusters" index="" image="">
+    <description>Gang Busters (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1988</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gaiapols" index="" image="">
+    <description>Gaiapolis (ver EAF)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1993</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="gwar" index="" image="">
+    <description>Guerrilla War (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gundhara" index="" image="">
+    <description>Gundhara</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Banpresto</manufacturer>
+    <year>1995</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="galivan" index="" image="">
+    <description>Cosmo Police Galivan (12/26/1985)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1985</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="galpani3" index="" image="">
+    <description>Gals Panic 3 (Euro)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1995</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="galpanic" index="" image="">
+    <description>Gals Panic (Unprotected)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1990</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="galsnew" index="" image="">
+    <description>Gals Panic (US, EXPRO-02 PCB)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1990</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="galspnbl" index="" image="">
+    <description>Gals Pinball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Comad</manufacturer>
+    <year>1996</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="gground" index="" image="">
+    <description>Gain Ground (World, 3 Players, Floppy Based, FD1094 317-0058-03d Rev A)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gcpinbal" index="" image="">
+    <description>Grand Cross</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Excellent System</manufacturer>
+    <year>1994</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="geebee" index="" image="">
+    <description>Gee Bee (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1978</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="gekisou" index="" image="">
+    <description>Gekisou (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Eastern Corp.</manufacturer>
+    <year>1985</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ghox" index="" image="">
+    <description>Ghox (spinner)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Toaplan</manufacturer>
+    <year>1991</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="gigasm2b" index="" image="">
+    <description>Gigas Mark II (bootleg)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>bootleg</manufacturer>
+    <year>1986</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="gmgalax" index="" image="">
+    <description>Ghostmuncher Galaxian (bootleg)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>bootleg</manufacturer>
+    <year>1981</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="gnbarich" index="" image="">
+    <description>Gunbarich</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Psikyo</manufacturer>
+    <year>2001</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="goldbug" index="" image="">
+    <description>Gold Bug</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="gomoku" index="" image="">
+    <description>Gomoku Narabe Renju</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1981</year>
+    <genre>Board Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Board Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="grasspin" index="" image="">
+    <description>Grasspin</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zilec Electronics / Jaleco</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="grchamp" index="" image="">
+    <description>Grand Champion</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1981</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="gunsmoke" index="" image="">
+    <description>Gun.Smoke (World, 851115)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="hbarrel" index="" image="">
+    <description>Heavy Barrel (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East USA</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="gundealr" index="" image="">
+    <description>Gun Dealer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Dooyong</manufacturer>
+    <year>1990</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="guzzler" index="" image="">
+    <description>Guzzler</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tehkan</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="headoni" index="" image="">
+    <description>Head On (Irem, M-15 Hardware)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Irem</manufacturer>
+    <year>1979</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="heartatk" index="" image="">
+    <description>Heart Attack</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="heiankyo" index="" image="">
+    <description>Heiankyo Alien</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Denki Onkyo</manufacturer>
+    <year>1979</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hero" index="" image="">
+    <description>Hero</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics / Seatongrove Ltd</manufacturer>
+    <year>1984</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="chwy" index="" image="">
+    <description>Highway Chase (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="himesiki" index="" image="">
+    <description>Himeshikibu (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Hi-Soft</manufacturer>
+    <year>1989</year>
+    <genre>Board Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Board Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hoccer" index="" image="">
+    <description>Hoccer (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Eastern Micro Electronics, Inc.</manufacturer>
+    <year>1983</year>
+    <genre>Hockey</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Hockey</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hopprobo" index="" image="">
+    <description>Hopper Robo</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="horekid" index="" image="">
+    <description>Kid no Hore Hore Daisakusen</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1987</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="horshoes" index="" image="">
+    <description>American Horseshoes (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito America Corporation</manufacturer>
+    <year>1990</year>
+    <genre>Sports</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Sports</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hotpinbl" index="" image="">
+    <description>Hot Pinball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Comad &amp; New Japan System</manufacturer>
+    <year>1995</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hotshock" index="" image="">
+    <description>Hot Shocker</description>
+    <cloneof />
+    <crc />
+    <manufacturer>E.G. Felaco (Domino license)</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hotsmash" index="" image="">
+    <description>Vs. Hot Smash</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko / Taito</manufacturer>
+    <year>1987</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hstennis" index="" image="">
+    <description>Hot Shots Tennis (V1.1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Strata/Incredible Technologies</manufacturer>
+    <year>1990</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hunchbak" index="" image="">
+    <description>Hunchback (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="huncholy" index="" image="">
+    <description>Hunchback Olympic</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics / Seatongrove Ltd</manufacturer>
+    <year>1984</year>
+    <genre>Track &amp; Field</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Track &amp; Field</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hustler" index="" image="">
+    <description>Video Hustler</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1981</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hwrace" index="" image="">
+    <description>High Way Race</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hyhoo" index="" image="">
+    <description>Hayaoshi Taisen Quiz Hyhoo (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1987</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="hyhoo2" index="" image="">
+    <description>Hayaoshi Taisen Quiz Hyhoo 2 (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1987</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="indianbt" index="" image="">
+    <description>Indian Battle</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="ikari" index="" image="">
+    <description>Ikari Warriors (US JAMMA)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="imolagp" index="" image="">
+    <description>Imola Grand Prix (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>RB Bologna</manufacturer>
+    <year>1983?</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="intrepid" index="" image="">
+    <description>Intrepid (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nova Games Ltd.</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="invds" index="" image="">
+    <description>Invinco / Deep Scan</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1979</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="invho2" index="" image="">
+    <description>Invinco / Head On 2</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1979</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="invmulti" index="" image="">
+    <description>Space Invaders Multigame (M8.03D)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>hack (Braze Technologies)</manufacturer>
+    <year>2002</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="invqix" index="" image="">
+    <description>Space Invaders / Qix Silver Anniversary Edition (Ver. 2.03)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito / Namco</manufacturer>
+    <year>2003</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="ixion" index="" image="">
+    <description>Ixion (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="jack" index="" image="">
+    <description>Jack the Giantkiller (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Hara Industries (Cinematronics license)</manufacturer>
+    <year>1982</year>
+    <genre>Climbing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Climbing</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="jackal" index="" image="">
+    <description>Jackal (World, 8-way Joystick)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="jackrabt" index="" image="">
+    <description>Jack Rabbit (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zaccaria</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kaitei" index="" image="">
+    <description>Kaitei Takara Sagashi</description>
+    <cloneof />
+    <crc />
+    <manufacturer>K.K. Tokki</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="kikikai" index="" image="">
+    <description>KiKi KaiKai</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="jantotsu" index="" image="">
+    <description>4nin-uchi Mahjong Jantotsu</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sanritsu</manufacturer>
+    <year>1983</year>
+    <genre>Mahjong</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mahjong</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jcross" index="" image="">
+    <description>Jumping Cross</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1984</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jin" index="" image="">
+    <description>Jin</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Falcon</manufacturer>
+    <year>1982</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jjack" index="" image="">
+    <description>Jumping Jack</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="joinem" index="" image="">
+    <description>Joinem</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Global Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jollyjgr" index="" image="">
+    <description>Jolly Jogger</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jongbou" index="" image="">
+    <description>Mahjong Block Jongbou (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1987</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="journey" index="" image="">
+    <description>Journey</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="joust2" index="" image="">
+    <description>Joust 2 - Survival of the Fittest (revision 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Williams</manufacturer>
+    <year>1986</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="joyfulr" index="" image="">
+    <description>Joyful Road (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1983</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jrpacman" index="" image="">
+    <description>Jr. Pac-Man (11/9/83)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jumpbug" index="" image="">
+    <description>Jump Bug</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Hoei (Rock-Ola license)</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jumpcoas" index="" image="">
+    <description>Jump Coaster</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="jumpshot" index="" image="">
+    <description>Jump Shot</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1985</year>
+    <genre>Basketball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Basketball</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="jungler" index="" image="">
+    <description>Jungler</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="kageki" index="" image="">
+    <description>Kageki (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko / Taito America Corporation (Romstar license)</manufacturer>
+    <year>1988</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kamikcab" index="" image="">
+    <description>Kamikaze Cabbie</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kangaroo" index="" image="">
+    <description>Kangaroo</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sun Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kaos" index="" image="">
+    <description>Kaos</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Game Plan</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kas89" index="" image="">
+    <description>Kasino '89</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SFC S.R.L.</manufacturer>
+    <year>1989</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kchamp" index="" image="">
+    <description>Karate Champ (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East USA</manufacturer>
+    <year>1984</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kick" index="" image="">
+    <description>Kick (upright)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Midway</manufacturer>
+    <year>1981</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kicker" index="" image="">
+    <description>Kicker</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1985</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kingofb" index="" image="">
+    <description>King of Boxer (English)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Wood Place Inc.</manufacturer>
+    <year>1985</year>
+    <genre>Boxing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Boxing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="koikoi" index="" image="">
+    <description>Koi Koi Part 2</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kiwako</manufacturer>
+    <year>1982</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="konam80s" index="" image="">
+    <description>Konami 80's AC Special (GC826 VER. EAA)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1998</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kong" index="" image="">
+    <description>Kong (Donkey Kong conversion on Galaxian hardware)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito do Brasil</manufacturer>
+    <year>198?</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="krull" index="" image="">
+    <description>Krull</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Gottlieb</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="krzybowl" index="" image="">
+    <description>Krazy Bowl</description>
+    <cloneof />
+    <crc />
+    <manufacturer>American Sammy</manufacturer>
+    <year>1994</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="kyros" index="" image="">
+    <description>Kyros</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co. (World Games Inc. license)</manufacturer>
+    <year>1987</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ladybug" index="" image="">
+    <description>Lady Bug</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ladyfrog" index="" image="">
+    <description>Lady Frog</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Mondial Games</manufacturer>
+    <year>1990</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ladykill" index="" image="">
+    <description>Lady Killer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yanyaka (Mitchell license)</manufacturer>
+    <year>1993</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ladymstr" index="" image="">
+    <description>Lady Master of Kung Fu</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko / Taito</manufacturer>
+    <year>1985</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="lagunar" index="" image="">
+    <description>Laguna Racer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Midway</manufacturer>
+    <year>1977</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="lasso" index="" image="">
+    <description>Lasso</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="lsasquad" index="" image="">
+    <description>Land Sea Air Squad / Riku Kai Kuu Saizensen</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="levers" index="" image="">
+    <description>Levers</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Rock-Ola</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="lnc" index="" image="">
+    <description>Lock'n'Chase</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="locomotn" index="" image="">
+    <description>Loco-Motion</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami (Centuri license)</manufacturer>
+    <year>1982</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="losttomb" index="" image="">
+    <description>Lost Tomb (easy)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Stern Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="lizwiz" index="" image="">
+    <description>Lizard Wizard</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Techstar (Sunn license)</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="logger" index="" image="">
+    <description>Logger</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="loverboy" index="" image="">
+    <description>Lover Boy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>G.T Enterprise Inc.</manufacturer>
+    <year>1983</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="lrescue" index="" image="">
+    <description>Lunar Rescue</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1979</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="luckyrlt" index="" image="">
+    <description>Lucky Roulette Plus (6-players, Spanish)</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <year>1990</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="luctoday" index="" image="">
+    <description>Lucky Today</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sigma</manufacturer>
+    <year>1980</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="lupin3" index="" image="">
+    <description>Lupin III (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1980</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="machomou" index="" image="">
+    <description>Macho Mouse</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Techstar</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="madgear" index="" image="">
+    <description>Mad Gear (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1989</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mariner" index="" image="">
+    <description>Mariner</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Amenip</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="mars" index="" image="">
+    <description>Mars</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Artic</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="maniach" index="" image="">
+    <description>Mania Challenge (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan (Taito America license)</manufacturer>
+    <year>1986</year>
+    <genre>Wrestling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Wrestling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="manybloc" index="" image="">
+    <description>Many Block</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bee-Oh</manufacturer>
+    <year>1991</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mappy" index="" image="">
+    <description>Mappy (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="marinedt" index="" image="">
+    <description>Marine Date</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="marvins" index="" image="">
+    <description>Marvin's Maze</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="matmania" index="" image="">
+    <description>Mat Mania</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan (Taito America license)</manufacturer>
+    <year>1985</year>
+    <genre>Wrestling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Wrestling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mazeinv" index="" image="">
+    <description>Maze Invaders (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="merlinmm" index="" image="">
+    <description>Merlins Money Maze</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zilec-Zenitone</manufacturer>
+    <year>1986</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="mercs" index="" image="">
+    <description>Mercs (World 900302)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1990</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="mgolf" index="" image="">
+    <description>Atari Mini Golf (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1978</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="mimonkey" index="" image="">
+    <description>Mighty Monkey</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal Video Games</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="mightguy" index="" image="">
+    <description>Mighty Guy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1986</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mikie" index="" image="">
+    <description>Mikie</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1984</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mrviking" index="" image="">
+    <description>Mister Viking (315-5041)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="mystston" index="" image="">
+    <description>Mysterious Stones - Dr. John's Adventure</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="mjleague" index="" image="">
+    <description>Major League</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre>Baseball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>MAME</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mmagic" index="" image="">
+    <description>Monkey Magic</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo</manufacturer>
+    <year>1979</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mmonkey" index="" image="">
+    <description>Minky Monkey</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan / Roller Tron</manufacturer>
+    <year>1982</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mofflott" index="" image="">
+    <description>Maze of Flott (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1989</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="moguchan" index="" image="">
+    <description>Mogu Chan (bootleg?)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Orca (Eastern Commerce Inc. license)</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="monsterb" index="" image="">
+    <description>Monster Bash</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="montecar" index="" image="">
+    <description>Monte Carlo</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1979</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="monymony" index="" image="">
+    <description>Money Money</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zaccaria</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="motos" index="" image="">
+    <description>Motos</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1985</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mouser" index="" image="">
+    <description>Mouser</description>
+    <cloneof />
+    <crc />
+    <manufacturer>UPL</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mrdo" index="" image="">
+    <description>Mr. Do!</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mrflea" index="" image="">
+    <description>The Amazing Adventures of Mr. F. Lea</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Pacific Novelty</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mrjong" index="" image="">
+    <description>Mr. Jong (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kiwako</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mrkougar" index="" image="">
+    <description>Mr. Kougar</description>
+    <cloneof />
+    <crc />
+    <manufacturer>ATW</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mrtnt" index="" image="">
+    <description>Mr. TNT</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Techstar (Telko license)</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="msjiken" index="" image="">
+    <description>Mahjong Satsujin Jiken (Japan 881017)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1988</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mspacman" index="" image="">
+    <description>Ms. Pac-Man</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Midway / General Computer Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mspuzzle" index="" image="">
+    <description>Miss Puzzle</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Min Corp.</manufacturer>
+    <year>1994</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="musicbal" index="" image="">
+    <description>Music Ball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tecfri / Desystem S.A.</manufacturer>
+    <year>1988</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="mustache" index="" image="">
+    <description>Mustache Boy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seibu Kaihatsu (March license)</manufacturer>
+    <year>1987</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="naughtyb" index="" image="">
+    <description>Naughty Boy</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ncv1" index="" image="">
+    <description>Namco Classic Collection Vol.1</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1995</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="navarone" index="" image="">
+    <description>Navarone</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="newfant" index="" image="">
+    <description>New Fantasia (1995 copyright)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Comad &amp; New Japan System</manufacturer>
+    <year>1995</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="newsin7" index="" image="">
+    <description>New Sinbad 7 (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>ATW USA, Inc.</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="nibbler" index="" image="">
+    <description>Nibbler (rev 9)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Rock-Ola</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="nitrobal" index="" image="">
+    <description>Nitro Ball (World, set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1992</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="nomnlnd" index="" image="">
+    <description>No Man's Land</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="nmouse" index="" image="">
+    <description>Naughty Mouse (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Amenip (Palcom Queen River)</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="noahsark" index="" image="">
+    <description>Noah's Ark</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Enter-Tech, Ltd.</manufacturer>
+    <year>1983</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="nob" index="" image="">
+    <description>Noboranka (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Coreland / Data East Corporation</manufacturer>
+    <year>1986</year>
+    <genre>Climbing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Climbing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ohpaipee" index="" image="">
+    <description>Oh! Paipee (Japan 890227)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1989</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="olibochu" index="" image="">
+    <description>Oli-Boo-Chu</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Irem / GDI</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="outzone" index="" image="">
+    <description>Out Zone</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Toaplan</manufacturer>
+    <year>1990</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ozon1" index="" image="">
+    <description>Ozon I</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Proma</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="perfrman" index="" image="">
+    <description>Performan (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Toaplan / Data East Corporation</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="pachifev" index="" image="">
+    <description>Pachifever</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sanki Denshi Kogyo</manufacturer>
+    <year>1983</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pacmania" index="" image="">
+    <description>Pac-Mania</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1987</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pacnpal" index="" image="">
+    <description>Pac &amp; Pal</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pacplus" index="" image="">
+    <description>Pac-Man Plus</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco (Midway license)</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="paddlema" index="" image="">
+    <description>Paddle Mania</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1988</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pairlove" index="" image="">
+    <description>Pairs Love</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Athena</manufacturer>
+    <year>1991</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pandoras" index="" image="">
+    <description>Pandora's Palace</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami / Interlogic</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="panic" index="" image="">
+    <description>Space Panic (version E)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Universal</manufacturer>
+    <year>1980</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="panicr" index="" image="">
+    <description>Panic Road (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seibu Kaihatsu (Taito license)</manufacturer>
+    <year>1986</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="paprazzi" index="" image="">
+    <description>Paparazzi</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yun Sung</manufacturer>
+    <year>1996</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="para2dx" index="" image="">
+    <description>Paradise 2 Deluxe</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yun Sung</manufacturer>
+    <year>199?</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="paradise" index="" image="">
+    <description>Paradise (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yun Sung</manufacturer>
+    <year>1994</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="paradlx" index="" image="">
+    <description>Paradise Deluxe</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yun Sung</manufacturer>
+    <year>199?</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="passsht" index="" image="">
+    <description>Passing Shot (World, 2 Players) (FD1094 317-0080)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pbaction" index="" image="">
+    <description>Pinball Action (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tehkan</manufacturer>
+    <year>1985</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="peggle" index="" image="">
+    <description>Peggle (Joystick, v1.0)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Strata/Incredible Technologies</manufacturer>
+    <year>1991</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pengo" index="" image="">
+    <description>Pengo (set 1 rev c)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="perestro" index="" image="">
+    <description>Perestroika Girls</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Promat</manufacturer>
+    <year>1994</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="phozon" index="" image="">
+    <description>Phozon (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1983</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pickin" index="" image="">
+    <description>Pickin'</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Valadon Automation</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pballoon" index="" image="">
+    <description>Pioneer Balloon</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="polaris" index="" image="">
+    <description>Polaris (Latest version)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="pooyan" index="" image="">
+    <description>Pooyan</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="popflame" index="" image="">
+    <description>Pop Flamer (protected)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="porky" index="" image="">
+    <description>Porky</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Shinkai Inc. (Magic Electronics Inc. license)</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="progress" index="" image="">
+    <description>Progress</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Chuo Co. Ltd</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="pignewt" index="" image="">
+    <description>Pig Newton (version C)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pinbo" index="" image="">
+    <description>Pinbo (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1984</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pitnrun" index="" image="">
+    <description>Pit &amp; Run - F-1 Race (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1984</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="playball" index="" image="">
+    <description>PlayBall! (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Williams</manufacturer>
+    <year>1983</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="plgirls" index="" image="">
+    <description>Play Girls</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Hot-B</manufacturer>
+    <year>1992</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="plgirls2" index="" image="">
+    <description>Play Girls 2</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Hot-B</manufacturer>
+    <year>1993</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pokrdice" index="" image="">
+    <description>Poker Dice</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Strata/Incredible Technologies</manufacturer>
+    <year>1991</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="popper" index="" image="">
+    <description>Popper</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Omori Electric Co., Ltd.</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="portrait" index="" image="">
+    <description>Portraits (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Olympia</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="poundfor" index="" image="">
+    <description>Pound for Pound (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Irem</manufacturer>
+    <year>1990</year>
+    <genre>Boxing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Boxing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="progolf" index="" image="">
+    <description>18 Holes Pro Golf (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="promutrv" index="" image="">
+    <description>Progressive Music Trivia (Question set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Enerdyne Technologies Inc.</manufacturer>
+    <year>1985</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="prosoccr" index="" image="">
+    <description>Pro Soccer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Soccer</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Soccer</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="prosport" index="" image="">
+    <description>Pro Sports - Bowling, Tennis, and Golf</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="protennb" index="" image="">
+    <description>Tennis (bootleg of Pro Tennis)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>bootleg</manufacturer>
+    <year>1982</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="prtytime" index="" image="">
+    <description>Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Mitchell</manufacturer>
+    <year>1995</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="psurge" index="" image="">
+    <description>Power Surge</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Vision Electronics</manufacturer>
+    <year>1988</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="psychic5" index="" image="">
+    <description>Psychic 5 (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco / NMK</manufacturer>
+    <year>1987</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pturn" index="" image="">
+    <description>Parallel Turn</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1984</year>
+    <genre>Skiing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Skiing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="puckman" index="" image="">
+    <description>Puck Man (Japan set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1980</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pulsar" index="" image="">
+    <description>Pulsar</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="puzlclub" index="" image="">
+    <description>Puzzle Club (Japan prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1990</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="pzlestar" index="" image="">
+    <description>Puzzle Star (Sang Ho Soft)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sang Ho Soft</manufacturer>
+    <year>1991</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="qbert" index="" image="">
+    <description>Q*bert (US set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Gottlieb</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="qbertqub" index="" image="">
+    <description>Q*bert's Qubes</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Mylstar</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="qix" index="" image="">
+    <description>Qix (Rev 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito America Corporation</manufacturer>
+    <year>1981</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="quantum" index="" image="">
+    <description>Quantum (rev 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <year>1982</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="quarterb" index="" image="">
+    <description>Quarterback (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Leland Corp.</manufacturer>
+    <year>1987</year>
+    <genre>Football</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Football</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="quester" index="" image="">
+    <description>Quester (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1987</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="qwak" index="" image="">
+    <description>Qwak (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="r2dtank" index="" image="">
+    <description>R2D Tank</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sigma Enterprises Inc.</manufacturer>
+    <year>1980</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="rackemup" index="" image="">
+    <description>Rack 'em Up (program code L)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="radarzon" index="" image="">
+    <description>Radar Zone</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rallybik" index="" image="">
+    <description>Rally Bike / Dash Yarou</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Toaplan / Taito Corporation</manufacturer>
+    <year>1988</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="razmataz" index="" image="">
+    <description>Razzmatazz</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="rcasino" index="" image="">
+    <description>Royal Casino (D-2608208A1-2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Dyna Electronics</manufacturer>
+    <year>1984</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rcirulet" index="" image="">
+    <description>Ruleta RCI (6-players, Spanish)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Entretenimientos GEMINIS</manufacturer>
+    <year>199?</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="re800v1" index="" image="">
+    <description>Ruleta RE-800 (v1.0)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Entretenimientos GEMINIS</manufacturer>
+    <year>1991</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="re800v3" index="" image="">
+    <description>Ruleta RE-800 (v3.0)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Entretenimientos GEMINIS</manufacturer>
+    <year>1991</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="re900" index="" image="">
+    <description>Ruleta RE-900</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Entretenimientos GEMINIS</manufacturer>
+    <year>1993</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="reaktor" index="" image="">
+    <description>Reaktor (Track &amp; Field conversion)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zilec</manufacturer>
+    <year>1987</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="redlin2p" index="" image="">
+    <description>Redline Racer (2 players)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics (Tradewest license)</manufacturer>
+    <year>1987</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="redrobin" index="" image="">
+    <description>Red Robin</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Elettronolo</manufacturer>
+    <year>1986</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ridleofp" index="" image="">
+    <description>Riddle of Pythagoras (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega / Nasco</manufacturer>
+    <year>1986</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="roadf" index="" image="">
+    <description>Road Fighter (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1984</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rockduck" index="" image="">
+    <description>Rock Duck (prototype?)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Datel SAS</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rockn" index="" image="">
+    <description>Rock'n Tread (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1999</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rockn2" index="" image="">
+    <description>Rock'n Tread 2 (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1999</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rockn3" index="" image="">
+    <description>Rock'n 3 (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1999</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rockn4" index="" image="">
+    <description>Rock'n 4 (Japan, prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco / PCCWJ</manufacturer>
+    <year>2000</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rocktrv2" index="" image="">
+    <description>MTV Rock-N-Roll Trivia (Part 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Triumph Software Inc.</manufacturer>
+    <year>1986</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rocnrope" index="" image="">
+    <description>Roc'n Rope</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rollingc" index="" image="">
+    <description>Rolling Crash / Moon Base</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1979</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rompers" index="" image="">
+    <description>Rompers (Japan, new version (Rev B))</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1989</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="roundup" index="" image="">
+    <description>Round-Up</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation (Amenip/Centuri license)</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="route16" index="" image="">
+    <description>Route 16 (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tehkan / Sun Electronics (Centuri license)</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="rtriv" index="" image="">
+    <description>Romar Triv</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Romar</manufacturer>
+    <year>198?</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="safarir" index="" image="">
+    <description>Safari Rally (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK (Taito license)</manufacturer>
+    <year>1979</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="samurai" index="" image="">
+    <description>Samurai</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1980</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="scotrsht" index="" image="">
+    <description>Scooter Shooter</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="seicross" index="" image="">
+    <description>Seicross</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu / Alice</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="searchar" index="" image="">
+    <description>SAR - Search And Rescue (World)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1989</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="sbagman" index="" image="">
+    <description>Super Bagman</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Valadon Automation</manufacturer>
+    <year>1984</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sbasketb" index="" image="">
+    <description>Super Basketball (version I, encrypted)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1984</year>
+    <genre>Basketball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Basketball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sbowling" index="" image="">
+    <description>Strike Bowling</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sbrkout" index="" image="">
+    <description>Super Breakout (rev 04)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1978</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="schaser" index="" image="">
+    <description>Space Chaser (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1979</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="scontra" index="" image="">
+    <description>Super Contra</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1988</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="scregg" index="" image="">
+    <description>Scrambled Egg</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="scudhamm" index="" image="">
+    <description>Scud Hammer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1994</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sdtennis" index="" image="">
+    <description>Super Doubles Tennis</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sexyboom" index="" image="">
+    <description>Sexy Boom</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sang Ho Soft</manufacturer>
+    <year>1992</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sfkick" index="" image="">
+    <description>Super Free Kick (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Haesung/HJ Corp</manufacturer>
+    <year>1988</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sflush" index="" image="">
+    <description>Straight Flush</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito</manufacturer>
+    <year>1979</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sheriff" index="" image="">
+    <description>Sheriff</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo</manufacturer>
+    <year>1979</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="shootbul" index="" image="">
+    <description>Shoot the Bull</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1985</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="shtrider" index="" image="">
+    <description>Shot Rider</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seibu Kaihatsu</manufacturer>
+    <year>1985</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="shuffle" index="" image="">
+    <description>Shuffleboard</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Midway</manufacturer>
+    <year>1978</year>
+    <genre>Sports</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Sports</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sindbadm" index="" image="">
+    <description>Sindbad Mystery</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="solarwar" index="" image="">
+    <description>Solar War</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1979</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sos" index="" image="">
+    <description>SOS</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1980</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="spacelnc" index="" image="">
+    <description>Space Launcher</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nintendo</manufacturer>
+    <year>1979</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="spbactn" index="" image="">
+    <description>Super Pinball Action (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tecmo</manufacturer>
+    <year>1991</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="spcpostn" index="" image="">
+    <description>Space Position (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega / Nasco</manufacturer>
+    <year>1986</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="spdcoin" index="" image="">
+    <description>Speed Coin (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Stern Electronics</manufacturer>
+    <year>1984</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="speedbal" index="" image="">
+    <description>Speed Ball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tecfri / Desystem S.A.</manufacturer>
+    <year>1987</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="srumbler" index="" image="">
+    <description>The Speed Rumbler (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Capcom</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="springer" index="" image="">
+    <description>Springer</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Orca</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sqbert" index="" image="">
+    <description>Faster, Harder, More Challenging Q*bert (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Mylstar</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sqix" index="" image="">
+    <description>Super Qix (World, Rev 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko / Taito</manufacturer>
+    <year>1987</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ssingles" index="" image="">
+    <description>Swinging Singles (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yachiyo Denki (Entertainment Enterprises, Ltd. license)</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ssozumo" index="" image="">
+    <description>Syusse Oozumou (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Technos Japan</manufacturer>
+    <year>1984</year>
+    <genre>Sports</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Sports</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sspacaho" index="" image="">
+    <description>Space Attack / Head On</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1979</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sspeedr" index="" image="">
+    <description>Super Speed Race</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Midway</manufacturer>
+    <year>1979</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="ssrj" index="" image="">
+    <description>Super Speed Race Junior (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1985</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="stratab" index="" image="">
+    <description>Strata Bowling (V3)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Strata/Incredible Technologies</manufacturer>
+    <year>1990</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="streakng" index="" image="">
+    <description>Streaking (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Shoei</manufacturer>
+    <year>1980</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="striv" index="" image="">
+    <description>Super Triv</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nova du Canada</manufacturer>
+    <year>1985</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="strvmstr" index="" image="">
+    <description>Super Trivia Master</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Enerdyne Technologies Inc.</manufacturer>
+    <year>1986</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sucasino" index="" image="">
+    <description>Super Casino</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data Amusement</manufacturer>
+    <year>1984</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="sundance" index="" image="">
+    <description>Sundance</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics</manufacturer>
+    <year>1979</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="supdrapo" index="" image="">
+    <description>Super Draw Poker (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Valadon Automation (Stern Electronics license)</manufacturer>
+    <year>1983</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="superabc" index="" image="">
+    <description>Super ABC (Pac-Man multigame kit, Sep. 03 1999)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>hack (Two-Bit Score)</manufacturer>
+    <year>1999</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="superbug" index="" image="">
+    <description>Super Bug</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <year>1977</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="superpac" index="" image="">
+    <description>Super Pac-Man</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="supmodel" index="" image="">
+    <description>Super Model</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Comad &amp; New Japan System</manufacturer>
+    <year>1994</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="suprglob" index="" image="">
+    <description>Super Glob</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Epos Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="suprmous" index="" image="">
+    <description>Super Mouse</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="suprridr" index="" image="">
+    <description>Super Rider</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation (Venture Line license)</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="suprstar" index="" image="">
+    <description>Super Stars</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Amatic Trading GmbH</manufacturer>
+    <year>1996</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tail2nos" index="" image="">
+    <description>Tail to Nose - Great Championship</description>
+    <cloneof />
+    <crc />
+    <manufacturer>V-System Co.</manufacturer>
+    <year>1989</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="talbot" index="" image="">
+    <description>Talbot</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co. (Volt Electronics license)</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="taxidriv" index="" image="">
+    <description>Taxi Driver</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Graphic Techno</manufacturer>
+    <year>1984</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tdfever" index="" image="">
+    <description>TouchDown Fever (US)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>SNK</manufacturer>
+    <year>1987</year>
+    <genre>Football</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Football</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tdpgal" index="" image="">
+    <description>Triple Draw Poker</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Design Labs / Thomas Automatics</manufacturer>
+    <year>1983</year>
+    <genre>Card Battle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Card Battle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="teamqb" index="" image="">
+    <description>John Elway's Team Quarterback (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Leland Corp.</manufacturer>
+    <year>1988</year>
+    <genre>Football</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Football</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="teedoff" index="" image="">
+    <description>Tee'd Off (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Tecmo</manufacturer>
+    <year>1986</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="telmahjn" index="" image="">
+    <description>Telephone Mahjong (Japan 890111)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1988</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tenkomor" index="" image="">
+    <description>Tenkomori Shooting (Asia, TKM2/VER.A1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1998</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="thehand" index="" image="">
+    <description>The Hand</description>
+    <cloneof />
+    <crc />
+    <manufacturer>T.I.C.</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="thepit" index="" image="">
+    <description>The Pit</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Zilec Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="thunderl" index="" image="">
+    <description>Thunder &amp; Lightning</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seta</manufacturer>
+    <year>1990</year>
+    <genre>Breakout</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Breakout</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="tndrcade" index="" image="">
+    <description>Thundercade / Twin Formation</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seta (Taito license)</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="timelimt" index="" image="">
+    <description>Time Limit</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Chuo Co. Ltd</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="timesold" index="" image="">
+    <description>Time Soldiers (US Rev 3)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Alpha Denshi Co. (SNK/Romstar license)</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="timescan" index="" image="">
+    <description>Time Scanner (set 2, System 16B)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="todruaga" index="" image="">
+    <description>The Tower of Druaga (New Ver.)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1984</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="tricktrp" index="" image="">
+    <description>Trick Trap (World?)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="ctornado" index="" image="">
+    <description>Tornado (DECO Cassette)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="toobin" index="" image="">
+    <description>Toobin' (rev 3)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari Games</manufacturer>
+    <year>1988</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="toprollr" index="" image="">
+    <description>Top Roller</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Jaleco</manufacturer>
+    <year>1983</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="torus" index="" image="">
+    <description>Torus</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Yun Sung</manufacturer>
+    <year>1996</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="toucheme" index="" image="">
+    <description>Touche Me (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <year>19??</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="travrusa" index="" image="">
+    <description>Traverse USA / Zippy Race</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Irem</manufacturer>
+    <year>1983</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="triplep" index="" image="">
+    <description>Triple Punch (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>K.K. International</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tripool" index="" image="">
+    <description>Tri-Pool (Casino Tech)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Noma (Casino Tech license)</manufacturer>
+    <year>1981</year>
+    <genre>Pool and Darts</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pool and Darts</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="trisport" index="" image="">
+    <description>Tri-Sports</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1989</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tron" index="" image="">
+    <description>Tron (8/9)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1982</year>
+    <genre>Mini-Games</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mini-Games</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="trvmstr" index="" image="">
+    <description>Trivia Master (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Enerdyne Technologies Inc.</manufacturer>
+    <year>1985</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="trvquest" index="" image="">
+    <description>Trivia Quest</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sunn / Techstar</manufacturer>
+    <year>1984</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="trvwz2" index="" image="">
+    <description>Trivia ? Whiz (6221-05, Edition 2)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Merit</manufacturer>
+    <year>1985</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="trvwz4" index="" image="">
+    <description>Trivia ? Whiz (6221-13, U5-0B Edition 4)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Merit</manufacturer>
+    <year>1985</year>
+    <genre>Quiz</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Quiz</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tryout" index="" image="">
+    <description>Pro Baseball Skill Tryout (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Data East Corporation</manufacturer>
+    <year>1985</year>
+    <genre>Baseball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>MAME</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="tsamurai" index="" image="">
+    <description>Samurai Nihon-Ichi (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko / Taito</manufacturer>
+    <year>1985</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="tokisens" index="" image="">
+    <description>Toki no Senshi - Chrono Soldier</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="tugboat" index="" image="">
+    <description>Tugboat</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Enter-Tech, Ltd.</manufacturer>
+    <year>1982</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="turbo" index="" image="">
+    <description>Turbo (program 1513-1515)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1981</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="turbotag" index="" image="">
+    <description>Turbo Tag (prototype)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Bally Midway</manufacturer>
+    <year>1985</year>
+    <genre>Driving</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Driving</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="tutankhm" index="" image="">
+    <description>Tutankham</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="turtles" index="" image="">
+    <description>Turtles</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Konami (Stern Electronics license)</manufacturer>
+    <year>1981</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="unclepoo" index="" image="">
+    <description>Uncle Poo</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Diatec</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="unkhorse" index="" image="">
+    <description>unknown Japanese horse gambling game</description>
+    <cloneof />
+    <crc />
+    <manufacturer />
+    <year>1981?</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="upndown" index="" image="">
+    <description>Up'n Down (315-5030)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="upyoural" index="" image="">
+    <description>Up Your Alley</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics</manufacturer>
+    <year>1987</year>
+    <genre>Bowling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Bowling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="usclssic" index="" image="">
+    <description>U.S. Classic</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seta</manufacturer>
+    <year>1989</year>
+    <genre>Golf</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Golf</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="valtric" index="" image="">
+    <description>Valtric</description>
+    <cloneof />
+    <crc />
+    <manufacturer>NMK (Jaleco license)</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="vastar" index="" image="">
+    <description>Vastar (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Orca (Sesame Japan license)</manufacturer>
+    <year>1983</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="vandyke" index="" image="">
+    <description>Vandyke (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>UPL</manufacturer>
+    <year>1990</year>
+    <genre>Fighter</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Fighter</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="vanvan" index="" image="">
+    <description>Van-Van Car</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sanritsu</manufacturer>
+    <year>1983</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="valkyrie" index="" image="">
+    <description>Valkyrie No Densetsu (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1989</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="videopin" index="" image="">
+    <description>Video Pinball</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Atari</manufacturer>
+    <year>1979</year>
+    <genre>Pinball</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Pinball</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="volfied" index="" image="">
+    <description>Volfied (World, revision 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation Japan</manufacturer>
+    <year>1989</year>
+    <genre>Puzzle</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Puzzle</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="vroulet" index="" image="">
+    <description>Vegas Roulette</description>
+    <cloneof />
+    <crc />
+    <manufacturer>World Game</manufacturer>
+    <year>1989</year>
+    <genre>Casino</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Casino</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="vsgongf" index="" image="">
+    <description>VS Gong Fight</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko</manufacturer>
+    <year>1984</year>
+    <genre>Boxing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Boxing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wanted" index="" image="">
+    <description>Wanted</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sigma Enterprises Inc.</manufacturer>
+    <year>1984</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="wallst" index="" image="">
+    <description>Wall Street</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Century Electronics</manufacturer>
+    <year>1982</year>
+    <genre>Miscellaneous</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Miscellaneous</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="warpwarp" index="" image="">
+    <description>Warp &amp; Warp</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Namco</manufacturer>
+    <year>1981</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="wwestern" index="" image="">
+    <description>Wild Western (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1982</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="waterski" index="" image="">
+    <description>Water Ski</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Taito Corporation</manufacturer>
+    <year>1983</year>
+    <genre>Skiing</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Skiing</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wiggie" index="" image="">
+    <description>Wiggie Waggie</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Promat</manufacturer>
+    <year>1994</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wiping" index="" image="">
+    <description>Wiping</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Nichibutsu</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wiz" index="" image="">
+    <description>Wiz</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Seibu Kaihatsu</manufacturer>
+    <year>1985</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wmatch" index="" image="">
+    <description>Water Match (315-5064)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1984</year>
+    <genre>Track &amp; Field</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Track &amp; Field</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="woodpeck" index="" image="">
+    <description>Woodpecker (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Amenip (Palcom Queen River)</manufacturer>
+    <year>1981</year>
+    <genre>Platform</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Platform</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wrestwar" index="" image="">
+    <description>Wrestle War (set 3, World) (8751 317-0103)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre>Wrestling</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Wrestling</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="wtennis" index="" image="">
+    <description>World Tennis</description>
+    <cloneof />
+    <crc />
+    <manufacturer>bootleg</manufacturer>
+    <year>1982</year>
+    <genre>Tennis</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Tennis</exe>
+    <exe>MAME</exe>
+  </game>
+   <game name="yamagchi" index="" image="">
+    <description>Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Kaneko / Taito</manufacturer>
+    <year>1985</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="yosakdon" index="" image="">
+    <description>Yosaku To Donbei (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Wing</manufacturer>
+    <year>1979</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="youjyudn" index="" image="">
+    <description>Youjyuden (Japan)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Irem</manufacturer>
+    <year>1986</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="zipzap" index="" image="">
+    <description>Zip &amp; Zap</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Barko Corp</manufacturer>
+    <year>1995</year>
+    <genre>Mature</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Mature</exe>
+    <exe>MAME</exe>
+  </game>
+  <game name="zzyzzyxx" index="" image="">
+    <description>Zzyzzyxx (set 1)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cinematronics / Advanced Microcomputer Systems</manufacturer>
+    <year>1982</year>
+    <genre>Maze</genre>
+    <rating />
+    <enabled>Yes</enabled>
+    <exe>Maze</exe>
+    <exe>MAME</exe>
+  </game>
+</menu>

@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="BioLab" index="" image="">
+    <description>Biolab</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="CastleStorm" index="" image="">
+    <description>CastleStorm</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2015</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="EarthDefense" index="" image="">
+    <description>Earth Defense</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Eldorado" index="" image="">
+    <description>El Dorado</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Looter" index="" image="">
+    <description>Epic Quest</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Excalibur" index="" image="">
+    <description>Excalibur</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_Milan" index="" image="">
+    <description>Football Super League - A.C. Milan</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_Roma" index="" image="">
+    <description>Football Super League - A.S. Roma</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_Arsenal" index="" image="">
+    <description>Football Super League - Arsenal</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_Barcelona" index="" image="">
+    <description>Football Super League - FC Barcelona</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_Juventus" index="" image="">
+    <description>Football Super League - Juventus</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_Liverpool" index="" image="">
+    <description>Football Super League - Liverpool F.C.</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football_RealMadrid" index="" image="">
+    <description>Football Super League - Real Madrid C.F.</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Football" index="" image="">
+    <description>Football Super League - Zen Studios F.C.</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Mars" index="" image="">
+    <description>Mars</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Blade" index="" image="">
+    <description>Marvel - Blade</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_CaptainAmerica" index="" image="">
+    <description>Marvel - Captain America</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_CivilWar" index="" image="">
+    <description>Marvel - Civil War</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Deadpool" index="" image="">
+    <description>Marvel - Deadpool</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_DrStrange" index="" image="">
+    <description>Marvel - Doctor Strange</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_FantasticFour" index="" image="">
+    <description>Marvel - Fantastic Four</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_FearItSelf" index="" image="">
+    <description>Marvel - Fear Itself</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_GhostRider" index="" image="">
+    <description>Marvel - Ghost Rider</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+    <game name="Marvel_Guardians" index="" image="">
+    <description>Marvel - Guardians of the Galaxy</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_IronMan" index="" image="">
+    <description>Marvel - Iron Man</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_MoonKnight" index="" image="">
+    <description>Marvel - Moon Knight</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_SpiderMan" index="" image="">
+    <description>Marvel - Spider-Man</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Avengers" index="" image="">
+    <description>Marvel - The Avengers</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Age_of_Ultron" index="" image="">
+    <description>Marvel - The Avengers Age of Ultron</description>
+    <cloneof />
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2015</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_InfinityGauntlet" index="" image="">
+    <description>Marvel - The Infinity Gauntlet</description>
+        <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Thor" index="" image="">
+    <description>Marvel - Thor</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Venom" index="" image="">
+    <description>Marvel - Venom</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_Wolverine" index="" image="">
+    <description>Marvel - Wolverine</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_WWH" index="" image="">
+    <description>Marvel - World War Hulk</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Marvel_X-Men" index="" image="">
+    <description>Marvel - X-Men</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SplosionMan" index="" image="">
+    <description>Ms. Splosion Man</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Paranormal" index="" image="">
+    <description>Paranormal</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Pasha" index="" image="">
+    <description>Pasha</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+    <game name="PlantsvsZombies" index="" image="">
+    <description>Plants vs. Zombies</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+    <game name="Portal" index="" image="">
+    <description>Portal</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2015</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Rome" index="" image="">
+    <description>Rome</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Atlantis" index="" image="">
+    <description>Secrets of the Deep</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Shaman" index="" image="">
+    <description>Shaman</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Citadel" index="" image="">
+    <description>Sorcerer&apos;s Lair</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SouthPark2" index="" image="">
+    <description>South Park - Butters&apos; Very Own Pinball Game</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="SouthPark1" index="" image="">
+    <description>South Park - Super Sweet Pinball</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Episode_4" index="" image="">
+    <description>Star Wars - A New Hope</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Boba_Fett" index="" image="">
+    <description>Star Wars - Boba Fett</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Darth_Vader" index="" image="">
+    <description>Star Wars - Darth Vader</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Droids" index="" image="">
+    <description>Star Wars - Droids</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Han_Solo" index="" image="">
+    <description>Star Wars - Han Solo</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Light_VS_Dark" index="" image="">
+    <description>Star Wars - Masters of the Force</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+    <game name="STARWARS_Rebels" index="" image="">
+    <description>Star Wars - Rebels</description>
+    <cloneof />
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2015</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Episode_6" index="" image="">
+    <description>Star Wars - Return of the Jedi</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_SFA" index="" image="">
+    <description>Star Wars - Starfighter Assault</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_CloneWars" index="" image="">
+    <description>Star Wars - The Clone Wars</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="STARWARS_Episode_5" index="" image="">
+    <description>Star Wars - The Empire Strikes Back</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Tesla" index="" image="">
+    <description>Tesla</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="V12" index="" image="">
+    <description>V12</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2013</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="TheWalkingDead" index="" image="">
+    <description>The Walking Dead</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2014</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+  <game name="Western" index="" image="">
+    <description>Wild West Rampage</description>
+    <cloneof></cloneof>
+    <manufacturer>Zen Studios</manufacturer>
+    <crc></crc>
+    <genre>Pinball</genre>
+    <year>2015</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <enabled>Yes</enabled>
+  </game>
+</menu>

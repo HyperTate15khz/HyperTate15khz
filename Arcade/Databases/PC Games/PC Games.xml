@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<menu>
+	<game name="ESCHATOS" index="true" image="'">
+        <description>ESCHATOS</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>
+	<game name="Ikaruga" index="true" image="'">
+        <description>Ikaruga</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year>2009</year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>	
+	<game name="CrimzonClover100" index="true" image="'">
+        <description>CrimzonClover100</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year>2009</year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>	
+	<game name="STELLAVANITY" index="true" image="'">
+        <description>STELLAVANITY</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer>cave</manufacturer>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>	
+	<game name="Nyxx" index="true" image="'">
+        <description>Nyxx</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>	
+	<game name="7 Servant's Blade" index="true" image="'">
+        <description>7 Servant's Blade</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>
+	<game name="Danmaku Unlimited 2" index="true" image="'">
+        <description>Danmaku Unlimited 2</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
+	</game>	
+</menu>
+
+
+
+
+
+
+
+
+
+
+

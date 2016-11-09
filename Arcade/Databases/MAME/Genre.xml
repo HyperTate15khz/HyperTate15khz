@@ -1,0 +1,12 @@
+<menu>
+  <game name="All Games"/>
+  <game name="Breakout Games" />
+  <game name="Driving Games"/>
+  <game name="Fighter Games"/>
+  <game name="Flying Games"/>
+  <game name="Maze Games" />
+  <game name="Misc. Games" />
+  <game name="Platform Games" />
+  <game name="Shooter Games" />>
+  <game name="Sports Games" />
+</menu>

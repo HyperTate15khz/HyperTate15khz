@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<menu>
+<game name="005" index="" image="">
+	<description>005</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="alibaba" index="" image="">
+	<description>Ali Baba and 40 Thieves</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="amidar" index="" image="">
+	<description>Amidar</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="armorcar" index="" image="">
+	<description>Armored Car</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="bagman" index="" image="">
+	<description>Bagman</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="blueprnt" index="" image="">
+	<description>Blue Print</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="botanic" index="" image="">
+	<description>Botanic</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="cavelon" index="" image="">
+	<description>Cavelon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="checkman" index="" image="">
+	<description>Check Man</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="crush" index="" image="">
+	<description>Crush Roller</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dazzler" index="" image="">
+	<description>Dazzler</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="devilfsh" index="" image="">
+	<description>Devil Fish</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="digdug" index="" image="">
+	<description>Dig Dug</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="digdug2" index="" image="">
+	<description>Dig Dug II</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dingo" index="" image="">
+	<description>Dingo</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dommy" index="" image="">
+	<description>Dommy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="dorodon" index="" image="">
+	<description>Dorodon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="eggor" index="" image="">
+	<description>Eggor</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="eyes" index="" image="">
+	<description>Eyes</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="fastlane" index="" image="">
+	<description>Fast Lane</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="frogger" index="" image="">
+	<description>Frogger</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="guzzler" index="" image="">
+	<description>Guzzler</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="horekid" index="" image="">
+	<description>Kid no Hore Hore Daisakusen</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="hotshock" index="" image="">
+	<description>Hot Shocker</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="intrepid" index="" image="">
+	<description>Intrepid</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="jack" index="" image="">
+	<description>Jack the Giantkiller</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="jackrabt" index="" image="">
+	<description>Jack Rabbit</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="journey" index="" image="">
+	<description>Journey</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="jrpacman" index="" image="">
+	<description>Jr. Pac-Man</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="jungler" index="" image="">
+	<description>Jungler</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="ladybug" index="" image="">
+	<description>Lady Bug</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="machomou" index="" image="">
+	<description>Macho Mouse</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="marvins" index="" image="">
+	<description>Marvin's Maze</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mazeinv" index="" image="">
+	<description>Maze Invaders</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="moguchan" index="" image="">
+	<description>Moguchan</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="monymony" index="" image="">
+	<description>Money Money</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mrdo" index="" image="">
+	<description>Mr. Do!</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mrtnt" index="" image="">
+	<description>Mr. TNT</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mspacman" index="" image="">
+	<description>Ms. Pac-Man</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mustache" index="" image="">
+	<description>Mustache Boy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="netwars" index="" image="">
+	<description>Net Wars</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="newsin7" index="" image="">
+	<description>New Sinbad 7</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="pacnpal" index="" image="">
+	<description>Pac & Pal</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="pacplus" index="" image="">
+	<description>Pac-Man Plus</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="pengo" index="" image="">
+	<description>Pengo</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="perfrman" index="" image="">
+	<description>Performan</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="pickin" index="" image="">
+	<description>Pickin'</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="puckman" index="" image="">
+	<description>PuckMan</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="rompers" index="" image="">
+	<description>Rompers</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="roundup" index="" image="">
+	<description>Round-Up</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="scregg" index="" image="">
+	<description>Scrambled Egg</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="superpac" index="" image="">
+	<description>Super Pac-Man</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="todruaga" index="" image="">
+	<description>Tower of Druaga</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="triplep" index="" image="">
+	<description>Triple Punch</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="turtles" index="" image="">
+	<description>Turtles</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tutankhm" index="" image="">
+	<description>Tutankham</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="vanvan" index="" image="">
+	<description>Van-Van Car</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="zzyzzyxx" index="" image="">
+	<description>Zzyzzyxx</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+</menu>

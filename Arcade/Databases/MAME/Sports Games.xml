@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<menu>
+<game name="8ballact" index="" image="">
+	<description>Eight Ball Action</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="alpine" index="" image="">
+	<description>Alpine Ski</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="capbowl" index="" image="">
+	<description>Capcom Bowling</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="champbwl" index="" image="">
+	<description>Championship Bowling</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="exctscc2" index="" image="">
+	<description>Exciting Soccer II</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="exctsccr" index="" image="">
+	<description>Exciting Soccer</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="hoccer" index="" image="">
+	<description>Hoccer</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="hustler" index="" image="">
+	<description>Video Hustler</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="krzybowl" index="" image="">
+	<description>Krazy Bowl</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="sbasketb" index="" image="">
+	<description>Super Basketball</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="stratab" index="" image="">
+	<description>Strata Bowling</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tryout" index="" image="">
+	<description>Pro Baseball Skill Tryout</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="waterski" index="" image="">
+	<description>Water Ski</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+</menu>

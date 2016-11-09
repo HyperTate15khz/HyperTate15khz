@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<menu>
+<game name="amazon" index="" image="">
+	<description>Soldier Girl Amazon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="astinvad" index="" image="">
+	<description>Astro Invader</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="astrobg" index="" image="">
+	<description>Astro Blaster</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="battlnts" index="" image="">
+	<description>Battlantis</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="blazer" index="" image="">
+	<description>Blazer</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="blkhole" index="" image="">
+	<description>Black Hole</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="boomrang" index="" image="">
+	<description>Boomer Rang'r / Genesis</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="centiped" index="" image="">
+	<description>Centipede</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="commando" index="" image="">
+	<description>Commando</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="daikaiju" index="" image="">
+	<description>Daikaiju no Gyakushu</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="devzone" index="" image="">
+	<description>Devil Zone</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="equites" index="" image="">
+	<description>Equites</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="fcombat" index="" image="">
+	<description>Field Combat</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="fnkyfish" index="" image="">
+	<description>Funky Fish</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="galaga" index="" image="">
+	<description>Galaga</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="galaxian" index="" image="">
+	<description>Galaxian</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="gaplus" index="" image="">
+	<description>Gaplus</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="gorf" index="" image="">
+	<description>Gorf</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="gunsmoke" index="" image="">
+	<description>Gun.Smoke</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="imago" index="" image="">
+	<description>Imago</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="invad2ct" index="" image="">
+	<description>Space Invaders II</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="lsasquad" index="" image="">
+	<description>Land Sea Air Squad / Riku Kai Kuu Saizensen</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="milliped" index="" image="">
+	<description>Millipede</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="mooncrst" index="" image="">
+	<description>Moon Cresta</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="moonqsr" index="" image="">
+	<description>Moon Quasar</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="ninjemak" index="" image="">
+	<description>Ninja Emaki</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="nyny" index="" image="">
+	<description>New York! New York!</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="phoenix" index="" image="">
+	<description>Phoenix</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="pisces" index="" image="">
+	<description>Pisces</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="pleiads" index="" image="">
+	<description>Pleiads</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="radarscp" index="" image="">
+	<description>Radar Scope</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="retofinv" index="" image="">
+	<description>Return of the Invaders</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="senjyo" index="" image="">
+	<description>Senjyo</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="shollow" index="" image="">
+	<description>Satan's Hollow</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="skyfox" index="" image="">
+	<description>Sky Fox</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="sonofphx" index="" image="">
+	<description>Son of Phoenix</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="spacefb" index="" image="">
+	<description>Space Firebird</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="spacelnc" index="" image="">
+	<description>Space Launcher</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="spcforce" index="" image="">
+	<description>Space Force</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="sraider" index="" image="">
+	<description>Space Raider</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="sstingry" index="" image="">
+	<description>Super Stingray</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="timesold" index="" image="">
+	<description>Time Soldiers</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tnk3" index="" image="">
+	<description>T.N.K III</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="tokisens" index="" image="">
+	<description>Toki no Senshi - Chrono Soldier</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="valtric" index="" image="">
+	<description>Valtric</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="yamagchi" index="" image="">
+	<description>Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="youjyudn" index="" image="">
+	<description>Youjyuden</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+</menu>

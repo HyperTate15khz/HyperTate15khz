@@ -1,0 +1,213 @@
+<menu>
+  <header>
+    <listname>Cave</listname>
+    <listversion />
+    <lastlistupdate>6/4/2015</lastlistupdate>
+    <exporterversion>HyperTools 4.3.25</exporterversion>
+  </header>
+  <game name="agallet" index="" image="">
+    <description>agallet</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ddonpach" index="" image="">
+    <description>ddonpach</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ddpdoj" index="" image="">
+    <description>ddpdoj</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="ddpdfk" index="" image="">
+    <description>DoDonPachi Dai-Fukkatsu Ver 1.5 (2008/06/23 MASTER VER 1.5)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cave (AMI license)</manufacturer>
+    <year>2008</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="dfkbl" index="" image="">
+    <description>DoDonPachi Dai-Fukkatsu Black Label (2010/1/18 BLACK LABEL)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cave (AMI license)</manufacturer>
+    <year>2010</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ddpdojblk" index="" image="">
+    <description>ddpdojblk</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="donpachi" index="" image="">
+    <description>donpachi</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ddp2">
+		<description>DoDonPachi II - Bee Storm (World, ver. 102)</description>
+		<cloneof></cloneof>
+		<manufacturer>IGS</manufacturer>
+		<year>2001</year>
+		<genre>Shooter / Flying Vertical</genre>
+	</game>
+  <game name="espgal" index="" image="">
+    <description>espgal</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="espgal2" index="" image="">
+    <description>espgal2</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="esprade" index="" image="">
+    <description>esprade</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="feversos" index="" image="">
+    <description>Fever SOS (International, Ver. 98/09/25)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cave (Nihon System license)</manufacturer>
+    <year>1998</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="futari15" index="" image="">
+    <description>futari15</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="futaribl" index="" image="">
+    <description>futaribl</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="guwange" index="" image="">
+    <description>guwange</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+ <game name="ibara" index="" image="">
+    <description>Ibara (2005/03/22 MASTER VER..)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cave (AMI license)</manufacturer>
+    <year>2005</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ibarablk" index="" image="">
+    <description>Ibara Kuro Black Label (2006/02/06. MASTER VER.)</description>
+    <cloneof />
+    <crc />
+    <manufacturer>Cave (AMI license)</manufacturer>
+    <year>2006</year>
+    <genre>Shoot-</genre>
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="ket" index="" image="">
+    <description>ket</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="mmpork" index="" image="">
+    <description>mmpork</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="mushisam" index="" image="">
+    <description>mushisam</description>
+    <cloneof />
+    <manufacturer />
+    <crc />
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+   <game name="pinkswts" index="" image="">
+    <description>Pink Sweets: Ibara Sorekara</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer></manufacturer>
+    <year></year>
+    <genre></genre>
+  </game>
+</menu>

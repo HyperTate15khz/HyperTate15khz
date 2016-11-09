@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<menu>
+<game name="arknoid2u" index="" image="">
+	<description>Arkanoid - Revenge of DOH</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="blockgal" index="" image="">
+	<description>Block Gal</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="fgoal" index="" image="">
+	<description>Field Goal</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="quester" index="" image="">
+	<description>Quester</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+<game name="thunderl" index="" image="">
+	<description>Thunder & Lightning</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+</game>
+</menu>

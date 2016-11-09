@@ -1,0 +1,58 @@
+<menu>
+  <header>
+    <listname>Wheel</listname>
+    <listversion />
+    <lastlistupdate>6/14/2015</lastlistupdate>
+    <exporterversion>HyperTools 4.3.25</exporterversion>
+  </header>
+  <game name="ikaruga" index="" image="">
+    <description>ikaruga</description>
+    <cloneof />
+    <manufacturer />
+    <crc>8692E7A6</crc>
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="illvelo" index="" image="">
+    <description>illvelo</description>
+    <cloneof />
+    <manufacturer />
+    <crc>E193AB5D</crc>
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="karous" index="" image="">
+    <description>karous</description>
+    <cloneof />
+    <manufacturer />
+    <crc>5A91F4BE</crc>
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="radirgy" index="" image="">
+    <description>radirgy</description>
+    <cloneof />
+    <manufacturer />
+    <crc>14E9D557</crc>
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+  <game name="trgheart" index="" image="">
+    <description>trgheart</description>
+    <cloneof />
+    <manufacturer />
+    <crc>F476F52D</crc>
+    <genre />
+    <year />
+    <rating />
+    <enabled>Yes</enabled>
+  </game>
+</menu>
