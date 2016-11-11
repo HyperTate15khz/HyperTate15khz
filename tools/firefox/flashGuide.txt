@@ -1,0 +1,5 @@
+In order to fix the green video issue in rocket launcher, you must disable flash player hardware acceleration, for that, open firefox go to this page:
+
+https://www.adobe.com/fr/software/flash/about/
+
+Right click on the flash video > settings > uncheck hardware acceleration 

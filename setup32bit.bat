@@ -44,6 +44,15 @@ start /wait Tools\VBRuntime\msvbvm50.exe /q
 Echo BebasNeue rocketLauncher font
 start /wait Arcade\RocketLauncher\Media\Fonts\BebasNeue.ttf
 
+:disable flash player hardware support
+Echo disable flash player hardware support
+start /wait Tools\firefox\setup.exe /q
+start /wait Tools\firefox\flashplayer23_xa_install.exe /q
+echo. Read the guide first. Once close installation will begin.
+echo.
+start /wait notepad.exe Tools/firefox/flashGuide.txt
+echo. 
+
 :XboxDriver
 cls
 echo Do you want to install the latest XBOX 360 Controller Drivers?
