@@ -69,6 +69,16 @@
         <genre></genre>
         <rating></rating>
         <enabled>Yes</enabled> 
+	</game>
+	<game name="Danmaku Unlimited 3" index="true" image="'">
+        <description>Danmaku Unlimited 3</description>
+        <cloneof></cloneof>
+        <crc/>
+        <manufacturer></manufacturer>
+        <year></year>
+        <genre></genre>
+        <rating></rating>
+        <enabled>Yes</enabled> 
 	</game>	
 </menu>
 
